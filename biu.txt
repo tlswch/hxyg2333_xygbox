@@ -2,7 +2,6 @@
 "Home": [
 {"key":"采集","title":"点播1","pic":"https://pic.imgdb.cn/item/63985335b1fccdcd3656fb90.png"},
 {"key":"APP","title":"点播2","pic":"https://pic.imgdb.cn/item/63985335b1fccdcd3656fba2.png"},
-{"key":"网页","title":"有声小说","pic":"https://pic.imgdb.cn/item/63984d60b1fccdcd364c6e57.png"},
 
 {"key": "自选网页",
 "title": "网络电台","pic": "https://pic.imgdb.cn/item/63984d60b1fccdcd364c6e41.png",
