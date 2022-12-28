@@ -76,6 +76,6 @@
 
 "dianshizhibo": "http://www.m9527.top/blive.txt",
  
-"guolvdizhi": "player.css#url=#cnzz.com#51.la",
+"guolvdizhi": "player.css#url=#cnzz.com#51.la"
 ]
 }
