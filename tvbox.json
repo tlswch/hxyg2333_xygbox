@@ -191,17 +191,6 @@
             "jar": "https://gitee.com/xygg23333/free/raw/master/guanfang.jar;md5;183cbd802fbad9cb6f2a375c0765e093"
         },
         {
-            "key": "农民",
-            "name": "农民",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/nongminyingshi.json"
-            "jar": "https://gitee.com/xygg23333/free/raw/master/guanfang.jar;md5;183cbd802fbad9cb6f2a375c0765e093"
-        },
-        {
             "key": "Cokemv",
             "name": "可乐",
             "type": "3",
