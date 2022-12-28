@@ -67,5 +67,12 @@
 
 "dianshizhibo": "https://agit.ai/xyg2333/xygbox/raw/branch/master/zB.txt",
  
-"guolvdizhi": "player.css#url=#cnzz.com#51.la"
+"guolvdizhi": "player.css#url=#cnzz.com#51.la",
+ 
+"beiyongjiexi": [
+{"name":"左岸","url":"https://jx.parwix.com:4433/player/analysis.php?v="},
+{"name":"人人","url":"https://jx.blbo.cc:4433/?url="},
+{"name":"虾米","url":"https://jx.xmflv.com/?url="},
+{"name":"九亿","url":"https://m3u8.look4you.top/?url="}
+]
 }
