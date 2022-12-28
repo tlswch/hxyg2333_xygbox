@@ -70,7 +70,5 @@
  
 "guolvdizhi": "player.css#url=#cnzz.com#51.la",
  
-"zidingyi": [
-
 ]
 }
