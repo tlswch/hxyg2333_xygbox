@@ -198,10 +198,49 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/nongminyingshi.json"
+            "ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/nongminyingshi.json",
             "jar": "https://gitee.com/xygg23333/free/raw/master/guanfang.jar;md5;183cbd802fbad9cb6f2a375c0765e093"
         },
-
+        {
+            "key": "Nkdy",
+            "name": "难看",
+            "type": 3,
+            "api": "csp_Nkdy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://gitee.com/xygg23333/free/raw/master/guanfang.jar;md5;183cbd802fbad9cb6f2a375c0765e093"
+        },    
+        {
+            "key": "IQIYI",
+            "name": "IQIYI",
+            "type": 3,
+            "api": "csp_IQIYI",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://gitee.com/xygg23333/free/raw/master/guanfang.jar;md5;183cbd802fbad9cb6f2a375c0765e093"
+        },
+        {
+            "key": "QQ",
+            "name": "QQ",
+            "type": 3,
+            "api": "csp_QQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://gitee.com/xygg23333/free/raw/master/guanfang.jar;md5;183cbd802fbad9cb6f2a375c0765e093"
+        },
+        {
+            "key": "MGTV",
+            "name": "芒果",
+            "type": 3,
+            "api": "csp_Mgtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://gitee.com/xygg23333/free/raw/master/guanfang.jar;md5;183cbd802fbad9cb6f2a375c0765e093"
+        },
         {
             "key": "Cokemv",
             "name": "可乐",
