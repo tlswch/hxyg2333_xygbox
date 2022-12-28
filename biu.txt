@@ -77,5 +77,5 @@
 {"key":"历史","title":"历史","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1839.png"},
 {"key":"收藏","title":"收藏","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e184c.png"},
 {"key":"推送","title":"推送","pic":"https://pic.imgdb.cn/item/62fc363716f2c2beb14e400f.png"}
-],
+]
 }
