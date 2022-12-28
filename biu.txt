@@ -68,7 +68,6 @@
 
 "dianshizhibo": "https://agit.ai/xyg2333/xygbox/raw/branch/master/zB.txt",
  
-"guolvdizhi": "player.css#url=#cnzz.com#51.la",
- 
+"guolvdizhi": "player.css#url=#cnzz.com#51.la"
 ]
 }
