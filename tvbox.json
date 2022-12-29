@@ -198,7 +198,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx3.json"
+            "ext": "https://dxawi.github.io/1/json/xx3.json",
             "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
         },
         {
@@ -209,7 +209,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx4.json"
+            "ext": "https://dxawi.github.io/1/json/xx4.json",
             "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
         },
         {
@@ -220,7 +220,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx5.json"
+            "ext": "https://dxawi.github.io/1/json/xx5.json",
             "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
         },
         {
