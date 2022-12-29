@@ -187,7 +187,7 @@
             "quickSearch":0,
             "filterable":1,
             "ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/bili.json",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/jingjian.jar;md5;e98beea238b373c3006cc2767a0c865b"
+            "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
         },
         {
             "key": "Voflix",
@@ -198,7 +198,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/guanfang.jar;md5;183cbd802fbad9cb6f2a375c0765e093"
+            "jar": "https://gitee.com/xygg23333/free/raw/master/0.jar;md5;619ff527f771e7aa9da4bd3d680abbf8"
         },
         {
             "key": "农民",
@@ -209,7 +209,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/nongminyingshi.json",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/guanfang.jar;md5;183cbd802fbad9cb6f2a375c0765e093"
+            "jar": "https://gitee.com/xygg23333/free/raw/master/0.jar;md5;619ff527f771e7aa9da4bd3d680abbf8"
         },
         {
             "key": "Nkdy",
@@ -219,7 +219,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/guanfang.jar;md5;183cbd802fbad9cb6f2a375c0765e093"
+            "jar": "https://gitee.com/xygg23333/free/raw/master/0.jar;md5;619ff527f771e7aa9da4bd3d680abbf8"
         },    
         {
             "key": "IQIYI",
@@ -229,7 +229,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/guanfang.jar;md5;183cbd802fbad9cb6f2a375c0765e093"
+            "jar": "https://gitee.com/xygg23333/free/raw/master/0.jar;md5;619ff527f771e7aa9da4bd3d680abbf8"
         },
         {
             "key": "QQ",
@@ -239,7 +239,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/guanfang.jar;md5;183cbd802fbad9cb6f2a375c0765e093"
+            "jar": "https://gitee.com/xygg23333/free/raw/master/0.jar;md5;619ff527f771e7aa9da4bd3d680abbf8"
         },
         {
             "key": "MGTV",
@@ -249,7 +249,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/guanfang.jar;md5;183cbd802fbad9cb6f2a375c0765e093"
+            "jar": "https://gitee.com/xygg23333/free/raw/master/0.jar;md5;619ff527f771e7aa9da4bd3d680abbf8"
         },
         {
             "key": "Cokemv",
