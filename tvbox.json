@@ -472,7 +472,7 @@
             "url": "Sequence"
         },
         {
-            "name": "PlayMv",
+            "name": "Play",
             "type": 1,
             "url": "proxy://do=jx&name=playmv&url=",
             "ext": {
