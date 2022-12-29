@@ -171,59 +171,6 @@
             "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
         },
         {
-            "key": "Bili",
-            "name": "知识学堂(爬虫)",
-            "type": 3,
-            "api": "csp_Dora",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx1.json"
-        },
-        {
-            "key": "儿童",
-            "name": "儿童(爬虫)",
-            "type": 3,
-            "api": "csp_Dora",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx2.json"
-        },
-        {
-            "key": "小学",
-            "name": "小学(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx3.json",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
-        },
-        {
-            "key": "初中",
-            "name": "初中(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx4.json",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
-        },
-        {
-            "key": "高中",
-            "name": "高中(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx5.json",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
-        },
-        {
             "key": "AList",
             "name": "AList",
             "type": "3",
@@ -240,6 +187,61 @@
             "quickSearch":0,
             "filterable":1,
             "ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/bili.json",
+            "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
+        },
+        {
+            "key":"知识",
+            "name":"学堂",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"https://dxawi.github.io/1/json/xx1.json",
+            "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
+        },
+        {
+            "key":"儿童",
+            "name":"儿童",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"https://dxawi.github.io/1/json/xx2.json",
+            "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
+        },
+        {
+            "key":"小学",
+            "name":"小学",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"https://dxawi.github.io/1/json/xx3.json",
+            "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
+        },
+        {
+            "key":"初中",
+            "name":"初中",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"https://dxawi.github.io/1/json/xx4.json",
+            "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
+        },
+        {
+            "key":"高中",
+            "name":"高中",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"https://dxawi.github.io/1/json/xx5.json",
             "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
         },
         {
