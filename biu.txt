@@ -74,7 +74,7 @@
 {"name":"九亿","url":"https://m3u8.look4you.top/?url="}
 ],
 
-"dianshizhibo": "http://home.jundie.top:81/ray/tvlive.txt",
+"dianshizhibo": "https://agit.ai/xyg2333/xygbox/raw/branch/master/biulive.txt",
  
 "guolvdizhi": "player.css#url=#cnzz.com#51.la",
  
