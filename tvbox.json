@@ -112,16 +112,6 @@
             "ext": "110c922de7d69804467fb83d3bb664b5"
         },
         {
-      "key": "yema",
-      "name": "野马",
-      "type": "3",
-      "api": "csp_AppYsV2",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "http://v.yemays.tk/api.php/app/"
-        },
-        {
             "key": "IKan",
             "name": "爱看",
             "type": "3",
