@@ -112,6 +112,16 @@
             "ext": "110c922de7d69804467fb83d3bb664b5"
         },
         {
+      "key": "yema",
+      "name": "野马",
+      "type": "3",
+      "api": "csp_AppYsV2",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "http://v.yemays.tk/api.php/app/"
+        },
+        {
             "key": "IKan",
             "name": "爱看",
             "type": "3",
@@ -770,5 +780,5 @@
         "cms.qdwght.com"
     ],
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://gitee.com/xygg23333/free/raw/master/tang.jar;md5;97ee205764c3c737804f48f97b3f7be6"
+    "spider": "https://gitee.com/xygg23333/free/raw/master/tang.jar;md5;9c102c1c5f41c3d7753256665831c25f"
 }
