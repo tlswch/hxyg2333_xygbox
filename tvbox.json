@@ -52,16 +52,6 @@
             "ext": "c41fdb671b20925c76fa9b6ff8bad027"
         },
         {
-            "key": "Hei",
-            "name": "石榴",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "3bff500c8b1e06c052a1b0f1f7a62b45"
-        },
-        {
             "key": "Lgyy",
             "name": "蓝光",
             "type": "3",
@@ -770,5 +760,5 @@
         "cms.qdwght.com"
     ],
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider": "https://gitee.com/xygg23333/free/raw/master/tang.jar;md5;cce086b9186251e917077c683858c58a"
+    "spider": "https://gitee.com/xygg23333/free/raw/master/tang.jar;md5;4ab8ad5008d89d9101204dd5e54c4d47"
 }
