@@ -445,7 +445,7 @@
                 {
                     "name": "redirect",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3h5ZzIzMzMveHlnYm94L3Jhdy9icmFuY2gvbWFzdGVyL3pCLnR4dA=="
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3h5ZzIzMzMveHlnYm94L3Jhdy9icmFuY2gvbWFzdGVyL3piLnR4dA=="
                     ]
                 }
             ]
