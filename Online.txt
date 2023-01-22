@@ -1,0 +1,12 @@
+{
+  "storeHouse": [
+    {
+    "sourceName": "⚠️请点下面⬇️",
+    "sourceUrl": "https://agit.ai/xyg2333/xygbox/raw/branch/master/djxm.json"
+  },
+  {
+    "sourceName": "🍁优质在线仓库🍁",
+    "sourceUrl": "https://agit.ai/xyg2333/xygbox/raw/branch/master/zxck.json"
+  }
+  ]
+}
