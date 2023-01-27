@@ -8,7 +8,7 @@
             "channels": [
                 {
                     "name": "redirect",
-                    "urls": ["http://127.0.0.1:9978/proxy?do=live&type=txt&ext=http://home.jundie.top:81/Cat/tv/live.txt"]
+                    "urls": ["http://127.0.0.1:9978/proxy?do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]
         }
       ]
     }
