@@ -1,6 +1,6 @@
 {
     
-    "wallpaper" : "http://饭太硬.ga/深色壁纸/api.php?type=wallpaper",
+    "wallpaper" : "http://www.kf666888.cn/api/tvbox/img?type=wallpaper",
 
     "lives": [
         {
@@ -8,7 +8,7 @@
             "channels": [
                 {
                     "name": "redirect",
-                    "urls": ["http://127.0.0.1:9978/proxy?do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzEzODAwMTM4MDAwMC9NSFFUVi9yYXcvYnJhbmNoL21hc3Rlci9UVi8xMTA4emgudHh0"]
+                    "urls": ["http://127.0.0.1:9978/proxy?do=live&type=txt&ext=aHR0cDovLzM5LjEzNC4xMTUuMjIxOjgwODAvUExUVi84ODg4ODkxMC8yMjQvMzIyMTIyNTYzMC9pbmRleC5tM3U4"]
         }
       ]
     }
