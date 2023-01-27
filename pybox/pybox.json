@@ -1,44 +1,50 @@
 {
     
-"wallpaper" : "https://api.yimian.xyz/img?type=wallpaper",
-"lives": [
-    {
-      "group": "自定义",
-      "channels": [
-        {
-          "name": "直播源",
-          "urls": ["http://127.0.0.1:9978/proxy?do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzEzODAwMTM4MDAwMC9NSFFUVi9yYXcvYnJhbmNoL21hc3Rlci9UVi8xMTA4emgudHh0"]
-        }
-      ]
-    }
-  ],
+    "wallpaper" : "https://picsum.photos/1280/720/?blur=5",
 
-"sites" : [
+    "lives": [
+        {
+            "group": "redirect",
+            "channels": [
+                {
+                    "name": "redirect",
+                    "urls": [
+                        "proxy://do=live&type=txt&ext=http://home.jundie.top:81/Cat/tv/live.txt"
+                    ]
+                }
+            ]
+        }
+    ],
+
+    "sites" : [
 
 {"key":"drpy_js_酷云七七","name":"影视 | 酷云七七[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/酷云77.js"},
 {"key":"drpy_js_人人影视","name":"影视 | 人人影视[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/人人影视.js"},
 {"key":"drpy_js_双十电影","name":"影视 | 双十电影[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/双十电影.js"},
-{"key":"drpy_js_天空影视","name":"影视 | 天空影视[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/天空影视.js"},
-{"key":"drpy_js_看了么","name":"影视 | 看了么[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/看了么.js"},
-{"key":"drpy_js_爱看电影","name":"影视 | 爱看电影[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/爱看电影.js"},
-{"key":"drpy_js_快云影院","name":"影视 | 快云影院[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/快云影院.js"},
-{"key":"drpy_js_TV云播","name":"影视 | TV云播[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/TV云播.js"},
-{"key":"drpy_js_555影视","name" : "[JS]影视 |555[js]","type" : 3,"api" : "https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext" : "https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/555影视.js"},
-{"key":"drpy_js_剧迷影院","name":"影视 | 剧迷影院[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/剧迷.js"},
-{"key":"drpy_js_万能影视","name":"影视 | 万能影视[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/万能影视.js"},
 {"key":"drpy_js_胖虎影视","name":"影视 | 胖虎影视[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/胖虎影视.js"},
 {"key":"drpy_js_奇优影院","name":"影视 | 奇优影院[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/奇优影院.js"},
-{"key":"drpy_js_蓝光影院","name":"影视 | 蓝光影院[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/蓝光影院.js"},
 {"key":"drpy_js_两个 BT","name":"影视 | 两个BT[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/两个BT.js"},
-{"key":"drpy_js_乐猪TV","name":"影视 | 乐猪TV[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/乐猪TV.js"},
+{"key":"drpy_js_哔哩影视","name":"影视 | 哔哩影视[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/哔哩影视.js"},
+{"key":"drpy_js_星辰影院","name":"影视 | 星辰影院[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/星辰.js"},
+{"key":"drpy_js_莫扎兔儿","name":"影视 | 莫扎兔儿[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/莫扎兔.js"},
+{"key":"drpy_js_尘落影视","name":"影视 | 尘落影视[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/尘落影视.js"},
+{"key":"drpy_js_007影视","name":"影视 | 007影视[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/007影视.js"},
+{"key":"drpy_js_万能影视","name":"影视 | 万能影视[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/万能影视.js"},
+{"key":"drpy_js_蓝光影院","name":"影视 | 蓝光影院[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/蓝光影院.js"},
 {"key":"drpy_js_fositv","name":"影视 | fositv[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/fositv.js"},
 {"key":"drpy_js_HDmoli","name":"影视 | HDmoli[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/HDmoli.js"},
 {"key":"drpy_js_酷客影院","name":"影视 | 酷客影院[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/酷客影院.js"},
+{"key":"drpy_js_8号影院","name":"影视 | 8号影院[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/8号影院.js"},
+{"key":"drpy_js_天空影视","name":"影视 | 天空影视[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/天空影视.js"},
+{"key":"drpy_js_看了么","name":"影视 | 看了么[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/看了么.js"},
+{"key":"drpy_js_爱看电影","name":"影视 | 爱看电影[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/爱看电影.js"},
+{"key":"drpy_js_TV云播","name":"影视 | TV云播[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/TV云播.js"},
+{"key":"drpy_js_555影视","name" : "[JS]影视 |555[js]","type" : 3,"api" : "https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext" : "https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/555影视.js"},
+{"key":"drpy_js_乐猪TV","name":"影视 | 乐猪TV[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/乐猪TV.js"},
 {"key":"drpy_js_厂长资源","name":"影视 | 厂长资源[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/厂长资源.js"},
 {"key":"drpy_js_饭团电影","name":"影视 | 饭团电影[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/饭团.js"},
 {"key":"drpy_js_回响影视","name":"影视 | 回响影视[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/回响影视.js"},
 {"key":"drpy_js_秋霞影院","name":"影视 | 秋霞影院[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/秋霞.js"},
-{"key":"drpy_js_哔哩影视","name":"影视 | 哔哩影视[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/哔哩影视.js"},
 {"key":"drpy_js_DJ音乐","name":"音频 | DJ音乐[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/DJ音乐.js","playerType":"2"},
 {"key":"drpy_js_短视频","name":"聚合 | 短视频[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/短视频.js"},
 {"key":"drpy_js_酷奇MV","name":"MV | 酷奇[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/酷奇MV.js"},
@@ -51,17 +57,13 @@
 {"key":"drpy_js_AnFuns","name":"动漫 | AnFuns[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/AnFuns.js"},
 {"key":"drpy_js_AGE动漫","name":"动漫 | AGE动漫[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/AGE动漫.js"},
 {"key":"drpy_js_异世界动漫","name":"动漫 | 异世界动漫[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/异世界动漫.js"},
-{"key":"drpy_js_007影视","name":"影视 | 007影视[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/007影视.js"},
-{"key":"drpy_js_8号影院","name":"影视 | 8号影院[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/8号影院.js"},
 {"key":"drpy_js_TV蜂影院","name":"影视 | TV蜂影院[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/TV蜂.js"},
 {"key":"drpy_js_布雷蓝光","name":"影视 | 布雷蓝光[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/布雷蓝光.js"},
-{"key":"drpy_js_尘落影视","name":"影视 | 尘落影视[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/尘落影视.js"},
 {"key":"drpy_js_大米星球","name":"影视 | 大米星球[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/大米星球.js"},
 {"key":"drpy_js_大猪蹄子","name":"影视 | 大猪蹄子[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/大猪蹄子.js"},
 {"key":"drpy_js_来看点播","name":"影视 | 来看点播[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/来看点播.js"},
 {"key":"drpy_js_麦豆网","name":"影视 | 麦豆网[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/麦豆.js"},
 {"key":"drpy_js_喵喵影院","name":"影视 | 喵喵影院[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/喵喵.js"},
-{"key":"drpy_js_莫扎兔儿","name":"影视 | 莫扎兔儿[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/莫扎兔.js"},
 {"key":"drpy_js_南柯电影","name":"影视 | 南柯电影[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/南柯电影网.js"},
 {"key":"drpy_js_趣享星趣","name":"影视 | 趣享星趣[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/趣享星趣.js"},
 {"key":"drpy_js_盛世电影","name":"影视 | 盛世电影[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/盛世电影网.js"},
@@ -69,7 +71,6 @@
 {"key":"drpy_js_四个圈儿","name":"影视 | 四个圈儿[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/四个圈影视.js"},
 {"key":"drpy_js_溪谷影视","name":"影视 | 溪谷影视[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/溪谷影视.js"},
 {"key":"drpy_js_小白菜儿","name":"影视 | 小白菜儿[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/小白菜电影.js"},
-{"key":"drpy_js_星辰影院","name":"影视 | 星辰影院[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/星辰.js"},
 {"key":"drpy_js_映迷影院","name":"影视 | 映迷影院[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/映迷影院.js"},
 {"key":"drpy_js_真不卡儿","name":"影视 | 真不卡儿[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/真不卡.js"},
 {"key":"drpy_js_追剧达人","name":"影视 | 追剧达人[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/追剧达人.js"},
@@ -87,12 +88,14 @@
 {"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/菜狗.js"},
 
 
-{"key" : "py_bilimd","name" : "[PY]哔哩","type" : 3,"api" : "py_bilimd","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/py_bilimd.py"},
-{"key" : "py_zhaozy","name" : "[PY]找源","type" : 3,"api" : "py_zhaozy","searchable" : 1,"quickSearch" : 1,"filterable" : 0,"ext" : "https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/py_zhaozy.py"},
-{"key" : "py_cctvse","name" : "[PY]少儿","type" : 3,"api" : "py_cctv","searchable" : 0,"quickSearch" : 0,"filterable" : 1,"ext" : "https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/py_cctvse.py"},
+
 {"key" : "py_cokemv","name" : "[PY]cokemv","type" : 3,"api" : "py_cokemv","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/py_cokemv.py"},
+{"key" : "py_bilimd","name" : "[PY]哔哩","type" : 3,"api" : "py_bilimd","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/py_bilimd.py"},
+{"key" : "py_cctvse","name" : "[PY]少儿","type" : 3,"api" : "py_cctv","searchable" : 0,"quickSearch" : 0,"filterable" : 1,"ext" : "https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/py_cctvse.py"},
 {"key": "py_alist","name": "[PY]Alist","type": 3,"api": "py_alist","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/py_alist.py"}, 
 {"key": "py_bilibili","name": "[PY]课堂","type": 3,"api": "py_bilibili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/py_bilibili.py"}, 
+{"key" : "py_zhaozy","name" : "[PY]找源","type" : 3,"api" : "py_zhaozy","searchable" : 1,"quickSearch" : 1,"filterable" : 0,"ext" : "https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/py_zhaozy.py"},
+
 
 {"key":"T4_douban","name":"豆瓣热榜","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":0,"quickSearch":0,"filterable":0},
 {"key": "纸条","name": "阿里 | 纸条","type": 3,"api": "csp_Paper","ext": "http://ali.饭太硬.ml/tok"},
