@@ -2,19 +2,17 @@
     
     "wallpaper" : "https://picsum.photos/1280/720/?blur=5?type=wallpaper",
 
-    "lives": [
+  "lives": [
+    {
+      "group": "自定义",
+      "channels": [
         {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "redirect",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzEzODAwMTM4MDAwMC9NSFFUVi9yYXcvYnJhbmNoL21hc3Rlci9UVi8xMTA4emgudHh0"
-                    ]
-                }
-            ]
+          "name": "直播源",
+          "urls": ["http://127.0.0.1:9978/proxy?do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzEzODAwMTM4MDAwMC9NSFFUVi9yYXcvYnJhbmNoL21hc3Rlci9UVi8xMTA4emgudHh0"]
         }
-    ],
+      ]
+    }
+  ],
 
     "sites" : [
 
