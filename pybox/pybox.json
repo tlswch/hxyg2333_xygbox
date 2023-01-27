@@ -23,7 +23,7 @@
 {"key":"drpy_js_爱看电影","name":"影视 | 爱看电影[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/爱看电影.js"},
 {"key":"drpy_js_快云影院","name":"影视 | 快云影院[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/快云影院.js"},
 {"key":"drpy_js_TV云播","name":"影视 | TV云播[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/TV云播.js"},
-{"key" : "drpy_js_555影视","name" : "[JS]555","type" : 3,"api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext" : "https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/555影视.js"},
+{"key" : "drpy_js_555影视","name" :"影视 |555[js]","type" : 3,"api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext" : "https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/555影视.js"},
 {"key":"drpy_js_剧迷影院","name":"影视 | 剧迷影院[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/剧迷.js"},
 {"key":"drpy_js_万能影视","name":"影视 | 万能影视[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/万能影视.js"},
 {"key":"drpy_js_胖虎影视","name":"影视 | 胖虎影视[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/胖虎影视.js"},
