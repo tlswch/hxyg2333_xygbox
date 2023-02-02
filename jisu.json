@@ -1,5 +1,5 @@
 {
-   "spider": "https://agit.ai/1343008858/TVBox/raw/branch/master/jar/01.jar;md5;a4070eda8df52c146e51eaf4bc173d8e", 
+   "spider": "https://gitee.com/xygg23333/free/raw/master/jisu.jar;md5;81d003cf98afd02dae2342a6d4b15a3a", 
    "lives": [{"group": "redirect","channels": [{
 "name": "live",
 "urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]
@@ -15,16 +15,7 @@
 {"key": "csp_panghu","name": "胖虎┃影视","type": 3,"api": "csp_Panghu","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_AppTT","name": "图图┃影视","type": 3,"api": "csp_AppTT2","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="},
 {"key": "农民","name": "农民┃影视","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/jwkui9su.json"},
-        {
-            "key": "csp_SP360",
-            "name": "📺┃360┃官源",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://我不是.肥猫.love:63/json/360影视.json"
-        },
+{"key": "csp_SP360","name": "360┃官源","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/json/360影视.json"},
 {"key": "csp_Paper","name": "纸条┃云盘","type": 3,"api": "csp_Paper","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/token.php"},
 {"key": "csp_search_Zhaozy","name": "资源┃搜索","type": 3,"api": "csp_Zhaozy","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://我不是.肥猫.love:63/token.php"},
 {"key": "csp_search_Yisou","name": "易搜┃搜索","type": 3,"api": "csp_YiSo","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://我不是.肥猫.love:63/token.php"},
