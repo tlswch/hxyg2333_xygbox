@@ -19,7 +19,7 @@
             "key": "csp_SP360",
             "name": "📺┃360┃官源",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_xBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
