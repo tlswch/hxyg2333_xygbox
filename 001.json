@@ -21,16 +21,6 @@
             "ext": "8e3aefcba838d8dc5102ac786719d837"
         },
         {
-            "key": "Tian",
-            "name": "天天1",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "bdc1c75081e5e477189a463baa47e392"
-        },
-        {
             "key": "Yanet",
             "name": "鸭奶飞1",
             "type": "3",
@@ -49,16 +39,6 @@
             "quickSearch": "1",
             "filterable": "1",
             "ext": "c41fdb671b20925c76fa9b6ff8bad027"
-        },
-        {
-            "key": "Lgyy",
-            "name": "蓝光1",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "b2e573ff040fcd54b50475660ee1a7d1"
         },
         {
             "key": "Smdyy",
@@ -81,26 +61,6 @@
             "ext": "1cc92323700909e7d46623bc85b958d6"
         },
         {
-            "key": "Dm84",
-            "name": "动漫1",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "572192a9fe2136041a58e7219a46fb2b"
-        },
-        {
-            "key": "AppTT",
-            "name": "图图1",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "110c922de7d69804467fb83d3bb664b5"
-        },
-        {
             "key": "IKan",
             "name": "爱看1",
             "type": "3",
@@ -119,26 +79,6 @@
             "quickSearch": "1",
             "filterable": "1",
             "ext": "8ee655f702d0d21f3643504783babbc3"
-        },
-        {
-            "key": "Kuaikan",
-            "name": "快看1",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "459b1cb892e317546676a2c9dcec2bff"
-        },
-        {
-            "key": "Kunyu77",
-            "name": "七七1",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "8b48a0834ee08e5e64977bc9fc8bc3e0"
         },
         {
             "key": "Auete",
@@ -160,16 +100,7 @@
             "filterable": "1",
             "ext": "d16d1517e9eaad9909cb35c55ba0b784"
         },
-        {
-            "key": "Bili",
-            "name": "哔哩1",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
-        },
+
         {
             "key": "AList",
             "name": "AList1",
@@ -178,94 +109,9 @@
             "searchable": "1",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
         },
-        {
-            "key":"NoSearch_csp_BBB",
-            "name":"课堂1",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/bili.json",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
-        },
-        {
-            "key":"知识",
-            "name":"学堂1",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/xx1.json",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
-        },
-        {
-            "key":"儿童",
-            "name":"儿童1",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/xx2.json",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
-        },
-        {
-            "key":"小学",
-            "name":"小学1",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/xx3.json",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
-        },
-        {
-            "key":"初中",
-            "name":"初中1",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/xx4.json",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
-        },
-        {
-            "key":"高中",
-            "name":"高中1",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/xx5.json",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
-        },
-        {
-            "key": "Voflix",
-            "name": "Voflix1",
-            "type": 3,
-            "api": "csp_Voflix",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/0.jar;md5;619ff527f771e7aa9da4bd3d680abbf8"
-        },
-        {
-            "key": "农民",
-            "name": "农民1",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/nongminyingshi.json",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/0.jar;md5;619ff527f771e7aa9da4bd3d680abbf8"
-        },
+
+
+
         {
             "key": "Nkdy",
             "name": "耐看1",
@@ -277,36 +123,6 @@
             "jar": "https://gitee.com/xygg23333/free/raw/master/0.jar;md5;619ff527f771e7aa9da4bd3d680abbf8"
         },    
         {
-            "key": "IQIYI",
-            "name": "爱奇艺1",
-            "type": 3,
-            "api": "csp_IQIYI",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/0.jar;md5;619ff527f771e7aa9da4bd3d680abbf8"
-        },
-        {
-            "key": "QQ",
-            "name": "腾讯视频1",
-            "type": 3,
-            "api": "csp_QQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/0.jar;md5;619ff527f771e7aa9da4bd3d680abbf8"
-        },
-        {
-            "key": "MGTV",
-            "name": "芒果TV1",
-            "type": 3,
-            "api": "csp_Mgtv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/0.jar;md5;619ff527f771e7aa9da4bd3d680abbf8"
-        },
-        {
             "key": "Cokemv",
             "name": "可乐1",
             "type": "3",
@@ -316,16 +132,7 @@
             "filterable": "1",
             "ext": "b88de1329655cca1beba45aa9776de70"
         },
-        {
-            "key": "LiteApple",
-            "name": "苹果1",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "6deed4548c44b18d268a5d828f04d86e"
-        },
+
         {
             "key": "SP360",
             "name": "SP3601",
@@ -335,16 +142,6 @@
             "quickSearch": "1",
             "filterable": "1",
             "ext": "9248c57eb22ace4a3431fbd1a979465f"
-        },
-        {
-            "key": "Gitcafe",
-            "name": "纸条1",
-            "type": "3",
-            "api": "csp_Paper",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
         },
         {
             "key": "Upso",
@@ -357,16 +154,6 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
         },
         {
-            "key": "Lib",
-            "name": "Libvio1",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "78d057e4d03e47cb62dce13d69b41d6f"
-        },
-        {
             "key": "Dy555",
             "name": "5551",
             "type": "3",
@@ -376,36 +163,7 @@
             "filterable": "1",
             "ext": "f41992bd740145ed58cb212dc0876582"
         },
-        {
-            "key": "Xiaoh",
-            "name": "Xiaoh1",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "0842c1d2a8534ec62fb3a3ed848851a7"
-        },
-        {
-            "key": "Zhaozy",
-            "name": "资源1",
-            "type": "3",
-            "api": "csp_Zhaozy",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
-        },
-        {
-            "key": "YiSo",
-            "name": "易搜1",
-            "type": "3",
-            "api": "csp_YiSo",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
-        },
+   
         {
             "key": "AliPS",
             "name": "盘搜1",
