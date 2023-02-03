@@ -1,15 +1,6 @@
 
 {
-    "sites": [
-        {
-            "key":"T4_douban",
-            "name":"豆瓣热榜",
-            "type":4,
-            "api":"https://t4.饭太硬.ml/vod",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":0
-        },
+    "sites": [ 
         {
             "key": "世界杯",
             "name": "一起看",
@@ -39,6 +30,16 @@
             "quickSearch": "1",
             "filterable": "1",
             "ext": "a369b1f623fe86605f1b029f0cf66349"
+        },
+        {
+            "key": "Hei19",
+            "name": "石榴",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "3bff500c8b1e06c052a1b0f1f7a62b45"
         },
         {
             "key": "Pang",
@@ -161,150 +162,12 @@
             "ext": "d16d1517e9eaad9909cb35c55ba0b784"
         },
         {
-            "key": "Bili",
-            "name": "哔哩",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
-        },
-        {
             "key": "AList",
             "name": "AList",
             "type": "3",
             "api": "csp_AList",
             "searchable": "1",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
-        },
-        {
-            "key":"NoSearch_csp_BBB",
-            "name":"课堂",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/bili.json",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
-        },
-        {
-            "key":"知识",
-            "name":"学堂",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/xx1.json",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
-        },
-        {
-            "key":"儿童",
-            "name":"儿童",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/xx2.json",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
-        },
-        {
-            "key":"小学",
-            "name":"小学",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/xx3.json",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
-        },
-        {
-            "key":"初中",
-            "name":"初中",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/xx4.json",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
-        },
-        {
-            "key":"高中",
-            "name":"高中",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/xx5.json",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qiaoji.jar;md5;e98beea238b373c3006cc2767a0c865b"
-        },
-        {
-            "key": "Voflix",
-            "name": "Voflix",
-            "type": 3,
-            "api": "csp_Voflix",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/0.jar;md5;619ff527f771e7aa9da4bd3d680abbf8"
-        },
-        {
-            "key": "农民",
-            "name": "农民",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/nongminyingshi.json",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/0.jar;md5;619ff527f771e7aa9da4bd3d680abbf8"
-        },
-        {
-            "key": "Nkdy",
-            "name": "耐看",
-            "type": 3,
-            "api": "csp_Nkdy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/0.jar;md5;619ff527f771e7aa9da4bd3d680abbf8"
-        },    
-        {
-            "key": "IQIYI",
-            "name": "爱奇艺",
-            "type": 3,
-            "api": "csp_IQIYI",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/0.jar;md5;619ff527f771e7aa9da4bd3d680abbf8"
-        },
-        {
-            "key": "QQ",
-            "name": "腾讯视频",
-            "type": 3,
-            "api": "csp_QQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/0.jar;md5;619ff527f771e7aa9da4bd3d680abbf8"
-        },
-        {
-            "key": "MGTV",
-            "name": "芒果TV",
-            "type": 3,
-            "api": "csp_Mgtv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/0.jar;md5;619ff527f771e7aa9da4bd3d680abbf8"
         },
         {
             "key": "Cokemv",
@@ -425,6 +288,16 @@
             "quickSearch": "1",
             "filterable": "1",
             "ext": "23a412dda32885ae2bcb97b956cd7ad4"
+        },
+        {
+            "key": "push_agent",
+            "name": "PushAgent",
+            "type": "3",
+            "api": "csp_Push",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
         },
         {
             "key": "Kunyu77",
@@ -812,10 +685,23 @@
             "type": 3,
             "url": "Web"
         },
-        {"name": "三三解析","type": 1,"url": "https://jiexi.parses.repl.co/api.php?url="},
-        {"name": "GGtv","type": 1,"url": "https://play.fuqizhishi.com/xiaobai/API.php?appkey=ganggang&url="},
-        {"name":"bozrc","type":0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "leshi", "LS", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": ""}}},
-        {"name":"lanlan","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}}
+        {
+            "name": "三三解析",
+            "type": 1,
+            "url": "https://jiexi.parses.repl.co/api.php?url="
+        },
+        {
+            "name": "ikunfk1",
+            "type": 1,
+            "url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url="
+        },
+        {
+            "name": "ikunfk2",
+            "type": 1,
+            "url": "https://parse.ikunfk.cc/parse/sign/20230117?url="
+        },
+    {"name":"bozrc","type":0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "leshi", "LS", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": ""}}},
+    {"name":"lanlan","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}}
     ],
     "flags":[
 "youku",
