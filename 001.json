@@ -16,7 +16,114 @@
         },
 
 
+        {
+            "key": "XBPQ_fant",
+            "name": "XBPQ┃饭团HD┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "http://我不是.肥猫.love:63/json/饭团影视.json"
+        },
+        {
+            "key": "XBPQ_fant2",
+            "name": "XBPQ┃饭团TV┃影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "http://我不是.肥猫.love:63/json/饭团影院.json"
+        },
+        {
+            "key": "mtv_XBPQ_映迷影视",
+            "name": "🐾┃映迷┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://我不是.肥猫.love:63/json/映迷影院.json"
+        },
+        {
+            "key": "csp_XBiu口袋影院",
+            "name": "📩┃口袋┃影视",
+            "type": 3,
+            "api": "csp_XBiu",
+            "ext": {
+                "homeUrl": "http://www.koudaitv.com/type/{cateId}-{catePg}.html",
+                "playlist": {
+                    "sort": 1
+                }
+            }
+        },
 
+        {
+            "key": "csp_XBiuCOKEMV",
+            "name": "🍬┃COK┃影视",
+            "type": 3,
+            "api": "csp_XBiu",
+            "ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "csp_Vofl",
+            "name": "🎈Voflix┃SP",
+            "type": 3,
+            "api": "csp_Voflix",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_panghu",
+            "name": "🐯胖虎┃SP",
+            "type": 3,
+            "api": "csp_Panghu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
+        {
+            "key": "csp_Lgyy",
+            "name": "🌀蓝光┃SP",
+            "type": 3,
+            "api": "csp_Lgyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Smdyy",
+            "name": "🐴神马┃SP",
+            "type": 3,
+            "api": "csp_Smdyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
+        {
+            "key": "csp_SP2345",
+            "name": "💦2345┃SP",
+            "type": 3,
+            "api": "csp_SP2345",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
+        {
+            "key": "csp_XYQH追兔",
+            "name": "🌸追兔┃XH",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cdn.饭太硬.ga/x/XYQ/追兔.json"
+        },
 
          {
             "key": "csp_xBPQ_爱看",
@@ -33,7 +140,7 @@
 
         {
             "key": "csp_Cokemv",
-            "name": "Cokemv",
+            "name": "📕可乐┃SP",
             "type": 3,
             "api": "csp_Cokemv",
             "playerType": 2,
@@ -43,7 +150,7 @@
         },
         {
             "key": "csp_Auete",
-            "name": "Auete",
+            "name": "🏝Aue┃SP",
             "type": 3,
             "api": "csp_Auete",
             "searchable": 1,
@@ -63,16 +170,6 @@
 
 
 
-
-        {
-            "key": "在线之家",
-            "name": "🎞┃在线┃之家",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
 
         {
             "key": "Kunyu77",
