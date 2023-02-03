@@ -106,7 +106,38 @@
             "ext": "http://cdn.饭太硬.ga/x/xbpq/爱看.json"
         },
 
-{"key":"csp_XBPQ新大米","name":"🌾┃大米┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$20#连续剧$21#综艺$22#动漫$23#福利$35","分类url":"https://www.lkfrp.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/pjax/YES.html"}},
+        {
+            "key": "XBPQ_fant",
+            "name": "🍙┃饭团┃影视",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "http://我不是.肥猫.love:63/json/饭团影视.json"
+        },
+        {
+            "key": "XBPQ_fant2",
+            "name": "🍙┃饭团┃影院",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "http://我不是.肥猫.love:63/json/饭团影院.json"
+        },
+        {
+            "key": "mtv_XBPQ_映迷影视",
+            "name": "🐾┃映迷┃影视",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://我不是.肥猫.love:63/json/映迷影院.json"
+        },
+
+{"key":"csp_XBPQ新大米","name":"🌾┃大米┃影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$20#连续剧$21#综艺$22#动漫$23#福利$35","分类url":"https://www.lkfrp.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/pjax/YES.html"}},
 
         {
             "key": "csp_Cokemv",
