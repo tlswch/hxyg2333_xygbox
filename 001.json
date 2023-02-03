@@ -16,6 +16,20 @@
         },
 
 
+{"key":"百影视频","name":"百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
+
+{"key":"yanetflix_spider","name":"鸭奈飞","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"","jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
+
+{"key":"niketv_spider","name":"耐客TV","api":"csp_NikeTV","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"","jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
+
+{"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":""jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
+
+{"key":"sliu_spider","name":"石榴电影","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"","jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
+
+{"key":"3EDY","name":"3EDY(EXO)","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
+
+{"key":"在线之家","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
+
         {
             "key": "csp_XBiu口袋影院",
             "name": "📩┃口袋┃影视",
@@ -108,7 +122,7 @@
 
         {
             "key": "XBPQ_fant",
-            "name": "🍙┃饭团┃影视",
+            "name": "🍙┃饭团HD┃影视",
             "type": 3,
             "api": "csp_xBPQ",
             "filterable": 1,
@@ -118,7 +132,7 @@
         },
         {
             "key": "XBPQ_fant2",
-            "name": "🍙┃饭团┃影院",
+            "name": "🍙┃饭团TV┃影院",
             "type": 3,
             "api": "csp_xBPQ",
             "filterable": 1,
