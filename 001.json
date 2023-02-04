@@ -10,7 +10,6 @@
             "quickSearch":0,
             "filterable":0
         },
-
 {"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/优酷.js"},
 {"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/菜狗.js"},
 {"key":"drpy_js_酷客影院","name":"影视 | 酷客影院[js]","type":3,"api":"https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/酷客影院.js"},
@@ -34,18 +33,6 @@
 {"key" : "drpy_js_猫了个咪","name" : "[JS]猫咪","type" : 3,"api" : "https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext" : "https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/猫了个咪.js"},
 {"key" : "drpy_js_18av","name" : "[JS]-18V","type" : 3,"api" : "https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext" : "https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/18av.js"},
 {"key": "py_alist","name": "[PY]Alist","type": 3,"api": "py_alist","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/py_alist.py"},
-
-        {
-            "key": "csp_xBPQ_FreeOK",
-            "name": "FreeOK",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://tvbox.cainisi.cf/xBPQ/FreeOK.json"
-        },
-
         {
             "key": "csp_xBPQ_热播库",
             "name": "热播库",
@@ -56,29 +43,6 @@
             "filterable": 0,
             "ext": "https://tvbox.cainisi.cf/xBPQ/热播库.json"
         },
-
-        {
-            "key": "csp_xBPQ_555电影",
-            "name": "555电影",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://tvbox.cainisi.cf/xBPQ/555电影.json"
-        },
-
-        {
-            "key": "csp_xBPQ_HDIK",
-            "name": "HDIK",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://tvbox.cainisi.cf/xBPQ/HDIK.json"
-        },
-
         {
             "key": "csp_xBPQ_饭团影视",
             "name": "饭团影视",
@@ -89,29 +53,6 @@
             "filterable": 0,
             "ext": "https://tvbox.cainisi.cf/xBPQ/饭团影视.json"
         },
-
-        {
-            "key": "csp_xBPQ_莫扎兔",
-            "name": "莫扎兔",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://tvbox.cainisi.cf/xBPQ/莫扎兔.json"
-        },
-
-        {
-            "key": "csp_xBPQ_干饭影视",
-            "name": "干饭影视",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://tvbox.cainisi.cf/xBPQ/干饭影视.json"
-        },
-
         {
             "key": "csp_xBPQ_城市电影",
             "name": "城市电影",
@@ -122,73 +63,46 @@
             "filterable": 0,
             "ext": "https://tvbox.cainisi.cf/xBPQ/城市电影.json"
         },
-
         {
-            "key": "csp_xBPQ_188影视",
-            "name": "188影视",
+            "key": "csp_xBPQ_FreeOK",
+            "name": "FreeOK",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://tvbox.cainisi.cf/xBPQ/188影视.json"
+            "ext": "https://tvbox.cainisi.cf/xBPQ/FreeOK.json"
         },
-
         {
-            "key": "csp_xBPQ_诺讯影视",
-            "name": "诺讯影视",
+            "key": "csp_xBPQ_555电影",
+            "name": "555电影",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://tvbox.cainisi.cf/xBPQ/诺讯影视.json"
+            "ext": "https://tvbox.cainisi.cf/xBPQ/555电影.json"
         },
-
         {
-            "key": "csp_xBPQ_落攻阁",
-            "name": "落攻阁",
+            "key": "csp_xBPQ_HDIK",
+            "name": "HDIK",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://tvbox.cainisi.cf/xBPQ/落攻阁.json"
+            "ext": "https://tvbox.cainisi.cf/xBPQ/HDIK.json"
         },
-
         {
-            "key": "csp_xBPQ_吼吼",
-            "name": "吼吼",
+            "key": "csp_xBPQ_莫扎兔",
+            "name": "莫扎兔",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://tvbox.cainisi.cf/xBPQ/吼吼.json"
+            "ext": "https://tvbox.cainisi.cf/xBPQ/莫扎兔.json"
         },
-
-        {
-            "key": "csp_xBPQ_APP影院",
-            "name": "APP影院",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://tvbox.cainisi.cf/xBPQ/APP影院.json"
-        },
-
-        {
-            "key": "csp_xBPQ_追剧啦",
-            "name": "追剧啦",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://tvbox.cainisi.cf/xBPQ/追剧啦.json"
-        },
-
         {
             "key": "霹雳影视",
             "name": "霹雳影视",
@@ -199,7 +113,6 @@
             "filterable": 0,
             "ext": "https://tvbox.cainisi.cf/xBPQ/霹雳影视.json"
         },
-
         {
             "key": "万博剧院",
             "name": "万博剧院",
@@ -212,29 +125,90 @@
         },
 
         {
-            "key": "剧情网",
-            "name": "剧情网",
+            "key": "csp_XBiu口袋影院",
+            "name": "XBiu┃口袋影视",
             "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://tvbox.cainisi.cf/xBPQ/剧情网.json"
+            "api": "csp_XBiu",
+            "ext": {
+                "homeUrl": "http://www.koudaitv.com/type/{cateId}-{catePg}.html",
+                "playlist": {
+                    "sort": 1
+                }
+            }
         },
 
         {
-            "key": "8K影视",
-            "name": "8K影视",
+            "key": "csp_XBiuCOKEMV",
+            "name": "XBiu┃cokemv",
+            "type": 3,
+            "api": "csp_XBiu",
+            "ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"
+        },
+
+
+        {
+            "key": "csp_XYQH追兔",
+            "name": "XYQ┃追兔",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cdn.饭太硬.ga/x/XYQ/追兔.json"
+        },
+
+         {
+            "key": "csp_xBPQ_爱看",
+            "name": "xBPQ┃爱看",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://tvbox.cainisi.cf/xBPQ/8K影视.json"
+            "ext": "http://cdn.饭太硬.ga/x/xbpq/爱看.json"
         },
 
+        {
+            "key": "XBPQ_fant",
+            "name": "🍙┃饭团HD┃影视",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "http://我不是.肥猫.love:63/json/饭团影视.json"
+        },
+        {
+            "key": "XBPQ_fant2",
+            "name": "🍙┃饭团TV┃影院",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "http://我不是.肥猫.love:63/json/饭团影院.json"
+        },
+        {
+            "key": "mtv_XBPQ_映迷影视",
+            "name": "🐾┃映迷┃影视",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://我不是.肥猫.love:63/json/映迷影院.json"
+        },
 
-
+        {
+            "key":"csp_xBPQ新大米",
+            "name":"🌾┃大米┃影视",
+            "type":3,
+            "api":"csp_xBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":{"分类":"电影$20#连续剧$21#综艺$22#动漫$23#福利$35","分类url":"https://www.lkfrp.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/pjax/YES.html"}
+        },
 
 
         {
@@ -249,7 +223,6 @@
             "ext": "https://api-tx.shumaxc.xyz",
             "jar": "http://我不是.肥猫.love:63/Jar/qq2.jar;md5;4E872E4AA2D4F8B6F4FFBC11E6B3E1A1"
         },
-
 
         {
             "key":"百影视频",
@@ -335,26 +308,17 @@
             "jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"
         },
 
-        {
-            "key": "csp_XBiu口袋影院",
-            "name": "XBiu┃口袋影视",
-            "type": 3,
-            "api": "csp_XBiu",
-            "ext": {
-                "homeUrl": "http://www.koudaitv.com/type/{cateId}-{catePg}.html",
-                "playlist": {
-                    "sort": 1
-                }
-            }
+       {
+       "key":"csp_Voflix",
+       "name":"🌀Voflix",
+       "type":3,
+       "api":"csp_Voflix",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1, 
+       "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;579B5724C9B51BA63AA055C64736B307"
         },
 
-        {
-            "key": "csp_XBiuCOKEMV",
-            "name": "XBiu┃cokemv",
-            "type": 3,
-            "api": "csp_XBiu",
-            "ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"
-        },
         {
             "key": "csp_Vofl",
             "name": "🎈Voflix┃SP",
@@ -403,69 +367,7 @@
             "filterable": 1
         },
 
-        {
-            "key": "csp_XYQH追兔",
-            "name": "XYQ┃追兔",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://cdn.饭太硬.ga/x/XYQ/追兔.json"
-        },
 
-         {
-            "key": "csp_xBPQ_爱看",
-            "name": "xBPQ┃爱看",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://cdn.饭太硬.ga/x/xbpq/爱看.json"
-        },
-
-        {
-            "key": "XBPQ_fant",
-            "name": "🍙┃饭团HD┃影视",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "http://我不是.肥猫.love:63/json/饭团影视.json"
-        },
-        {
-            "key": "XBPQ_fant2",
-            "name": "🍙┃饭团TV┃影院",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "http://我不是.肥猫.love:63/json/饭团影院.json"
-        },
-        {
-            "key": "mtv_XBPQ_映迷影视",
-            "name": "🐾┃映迷┃影视",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://我不是.肥猫.love:63/json/映迷影院.json"
-        },
-
-        {
-            "key":"csp_xBPQ新大米",
-            "name":"🌾┃大米┃影视",
-            "type":3,
-            "api":"csp_xBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":{"分类":"电影$20#连续剧$21#综艺$22#动漫$23#福利$35","分类url":"https://www.lkfrp.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/pjax/YES.html"}
-        },
 
         {
             "key": "csp_Cokemv",
@@ -488,14 +390,6 @@
         },
 
 
-        {
-            "key": "AList",
-            "name": "AList",
-            "type": "3",
-            "api": "csp_AList",
-            "searchable": "1",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
-        },
 
 
 
@@ -530,38 +424,11 @@
         },
         
        
-       {
-       "key":"csp_Voflix",
-       "name":"🌀Voflix",
-       "type":3,
-       "api":"csp_Voflix",
-       "searchable":1,
-       "quickSearch":1,
-       "filterable":1, 
-       "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;579B5724C9B51BA63AA055C64736B307"
-        },
+
         
-        {
-            "key": "农民",
-            "name": "农民(爬虫)",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gst163.github.io/s/nongminyingshi.json"
-        }, 
-        {
-            "key": "AppTT",
-            "name": "图图(爬虫)",
-            "type": "3",
-            "api": "csp_Dora",
-            "playerType": 2,
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "110c922de7d69804467fb83d3bb664b5"
-        },
+
+
+
         {
             "key": "csp_Czsapp",
             "name": "厂长(爬虫)",
@@ -600,17 +467,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "Tian",
-            "name": "天天(爬虫)",
-            "type": "3",
-            "api": "csp_Dora",
-            "playerType": 2,
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "bdc1c75081e5e477189a463baa47e392"
-        },
+
         {
             "key": "Ddrk",
             "name": "低端(爬虫)",
@@ -694,6 +551,112 @@
             "filterable": 1
         },
         {
+            "key": "IQIYI",
+            "name": "奇异果(解析)",
+            "type": 3,
+            "api": "csp_IQIYI",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "QQ",
+            "name": "企鹅(解析)",
+            "type": 3,
+            "api": "csp_QQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "MGTV",
+            "name": "芒果(解析)",
+            "type": 3,
+            "api": "csp_Mgtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "360",
+            "name": "360(解析)",
+            "type": 3,
+            "api": "csp_SP360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Nbys",
+            "name": "泥巴(墙外)",
+            "type":3,
+            "api": "csp_Nbys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Xiaoh",
+            "name": "Xiaoh(墙外)",
+            "type":3,
+            "api": "csp_Xiaoh",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "If101",
+            "name": "101(墙外)",
+            "type":3,
+            "api": "csp_If101",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
+        {
+            "key": "AppTT",
+            "name": "图图(爬虫)",
+            "type": "3",
+            "api": "csp_Dora",
+            "playerType": 2,
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "110c922de7d69804467fb83d3bb664b5"
+        },
+        {
+            "key": "Tian",
+            "name": "天天(爬虫)",
+            "type": "3",
+            "api": "csp_Dora",
+            "playerType": 2,
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "bdc1c75081e5e477189a463baa47e392"
+        },
+
+        {
+            "key": "AList",
+            "name": "AList",
+            "type": "3",
+            "api": "csp_AList",
+            "searchable": "1",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+        },
+
+        {
+            "key": "农民",
+            "name": "农民(爬虫)",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gst163.github.io/s/nongminyingshi.json"
+        }, 
+        {
             "key": "Gitcafe",
             "name": "小纸条(爬虫)",
             "type": 3,
@@ -758,69 +721,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "http://ali.饭太硬.ml/tok"
-        },
-        {
-            "key": "IQIYI",
-            "name": "奇异果(解析)",
-            "type": 3,
-            "api": "csp_IQIYI",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "QQ",
-            "name": "企鹅(解析)",
-            "type": 3,
-            "api": "csp_QQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "MGTV",
-            "name": "芒果(解析)",
-            "type": 3,
-            "api": "csp_Mgtv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "360",
-            "name": "360(解析)",
-            "type": 3,
-            "api": "csp_SP360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Nbys",
-            "name": "泥巴(墙外)",
-            "type":3,
-            "api": "csp_Nbys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Xiaoh",
-            "name": "Xiaoh(墙外)",
-            "type":3,
-            "api": "csp_Xiaoh",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "If101",
-            "name": "101(墙外)",
-            "type":3,
-            "api": "csp_If101",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "Bili",
