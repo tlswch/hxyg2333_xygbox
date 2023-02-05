@@ -32,7 +32,6 @@
 {"key" : "drpy_js_18av","name" : "js┃18V","type" : 3,"api" : "https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext" : "https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/18av.js"},
 {"key":"drpy_js_优酷","name":"js┃官源优酷","type":3,"api":"https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/优酷.js"},
 {"key":"drpy_js_菜狗","name":"js┃官源搜狗","type":3,"api":"https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/菜狗.js"},
-{"key": "py_alist","name": "PY┃Alist","type": 3,"api": "py_alist","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/py_alist.py"},
         {
             "key": "csp_xBPQ_热播库",
             "name": "xBPQ┃热播库",
