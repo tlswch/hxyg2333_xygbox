@@ -269,9 +269,9 @@
             "api":"csp_Zxzj",
             "searchable":1,
             "playerType":2,
-            "quickSearch":1,
-            "filterable":1,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
 
 
