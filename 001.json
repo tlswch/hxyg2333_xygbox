@@ -211,7 +211,7 @@
             "quickSearch":1,
             "filterable":0,
             "ext":"http://47.104.99.175",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qj231121.jar;md5;337caf061e749dbfff5d4d53203c3014"
+            "jar": "https://gitee.com/xygg23333/free/raw/master/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"
         },
 
         {
@@ -223,7 +223,7 @@
             "playerType":2,
             "quickSearch":1,
             "searchable":1,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qj231121.jar;md5;337caf061e749dbfff5d4d53203c3014"
+            "jar": "https://gitee.com/xygg23333/free/raw/master/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"
         },
 
         {
@@ -235,7 +235,7 @@
             "playerType":2,
             "quickSearch":1,
             "searchable":1,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qj231121.jar;md5;337caf061e749dbfff5d4d53203c3014"
+            "jar": "https://gitee.com/xygg23333/free/raw/master/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"
         },
 
         {
@@ -247,7 +247,7 @@
             "playerType":2,
             "quickSearch":1,
             "filterable":0,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qj231121.jar;md5;337caf061e749dbfff5d4d53203c3014"
+            "jar": "https://gitee.com/xygg23333/free/raw/master/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"
         },
 
         {
@@ -259,7 +259,7 @@
             "playerType":2,
             "quickSearch":1,
             "searchable":1,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qj231121.jar;md5;337caf061e749dbfff5d4d53203c3014"
+            "jar": "https://gitee.com/xygg23333/free/raw/master/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"
         },
         {
             "key":"在线之家",
@@ -270,19 +270,9 @@
             "playerType":2,
             "quickSearch":1,
             "filterable":1,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qj231121.jar;md5;337caf061e749dbfff5d4d53203c3014"
+            "jar": "https://gitee.com/xygg23333/free/raw/master/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"
         },
 
-       {
-       "key":"csp_Voflix",
-       "name":"🌀Voflix",
-       "type":3,
-       "api":"csp_Voflix",
-       "searchable":1,
-       "quickSearch":1,
-       "filterable":1, 
-       "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;579B5724C9B51BA63AA055C64736B307"
-        },
 
         {
             "key": "csp_Vofl",
@@ -387,12 +377,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        
-       
-
-        
-
-
 
         {
             "key": "csp_Czsapp",
