@@ -155,6 +155,16 @@
             "ext": "http://我不是.肥猫.love:63/json/映迷影院.json"
         },
         {
+            "key": "csp_XYQH追兔",
+            "name": "XYQ┃追兔",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cdn.饭太硬.ga/x/XYQ/追兔.json"
+        },
+        {
             "key":"csp_xBPQ新大米",
             "name":"xBPQ┃大米",
             "type":3,
@@ -178,27 +188,17 @@
             "api": "csp_XBiu",
             "ext": {"homeUrl": "http://www.koudaitv.com/type/{cateId}-{catePg}.html","playlist": {"sort": 1}}
         },
+
         {
-            "key": "csp_XYQH追兔",
-            "name": "XYQ┃追兔",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://cdn.饭太硬.ga/x/XYQ/追兔.json"
-        },
-        {
-            "key": "YQK_spider",
-            "name": "爬虫┃一起看",
-            "api": "csp_YQKAPP",
-            "type": 3,
-            "filterable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "https://api-tx.shumaxc.xyz",
-            "jar": "http://我不是.肥猫.love:63/Jar/qq2.jar;md5;4E872E4AA2D4F8B6F4FFBC11E6B3E1A1"
+            "key":"YQK_spider",
+            "name":"爬虫┃一起看",
+            "api":"csp_YQKAPP",
+            "type":3,
+            "filterable":1,
+            "quickSearch":1,
+            "searchable":1,
+            "ext":"https://api-tx.shumaxc.xyz",
+            "jar": "https://gitee.com/xygg23333/free/raw/master/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"
         },
 
         {
@@ -276,7 +276,7 @@
 
         {
             "key": "csp_Vofl",
-            "name": "🎈Voflix┃SP",
+            "name": "SP┃Voflix",
             "type": 3,
             "api": "csp_Voflix",
             "searchable": 1,
@@ -285,7 +285,7 @@
         },
         {
             "key": "csp_panghu",
-            "name": "🐯胖虎┃SP",
+            "name": "SP┃胖虎┃SP",
             "type": 3,
             "api": "csp_Panghu",
             "searchable": 1,
@@ -295,7 +295,7 @@
 
         {
             "key": "csp_Lgyy",
-            "name": "🌀蓝光┃SP",
+            "name": "SP┃蓝光┃SP",
             "type": 3,
             "api": "csp_Lgyy",
             "searchable": 1,
@@ -304,7 +304,7 @@
         },
         {
             "key": "csp_Smdyy",
-            "name": "🐴神马┃SP",
+            "name": "SP┃神马┃SP",
             "type": 3,
             "api": "csp_Smdyy",
             "searchable": 1,
@@ -314,19 +314,16 @@
 
         {
             "key": "csp_SP2345",
-            "name": "💦2345┃SP",
+            "name": "SP┃2345┃SP",
             "type": 3,
             "api": "csp_SP2345",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
-
-
-
         {
             "key": "csp_Cokemv",
-            "name": "📕可乐┃SP",
+            "name": "SP┃Cokemv",
             "type": 3,
             "api": "csp_Cokemv",
             "playerType": 2,
@@ -336,22 +333,16 @@
         },
         {
             "key": "csp_Auete",
-            "name": "🏝Aue┃SP",
+            "name": "SP┃Auete",
             "type": 3,
             "api": "csp_Auete",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
-
-
-
-
-
-
         {
             "key": "Kunyu77",
-            "name": "鲲鱼77(爬虫)",
+            "name": "SP┃七七",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -360,7 +351,7 @@
         },
         {
             "key": "Kuaikan",
-            "name": "快看(爬虫)",
+            "name": "SP┃快看",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -368,19 +359,8 @@
             "filterable": 1
         },
         {
-            "key": "Voflix",
-            "name": "Voflix(爬虫)",
-            "type": 3,
-            "api": "csp_Voflix",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-
-        {
             "key": "csp_Czsapp",
-            "name": "厂长(爬虫)",
+            "name": "SP┃厂长",
             "type": 3,
             "api": "csp_Czsapp",
             "playerType": 2,
@@ -390,7 +370,7 @@
         },
         {
             "key": "csp_BuLei",
-            "name": "布雷(爬虫)",
+            "name": "SP┃布雷",
             "type": 3,
             "api": "csp_BuLei",
             "searchable": 1,
@@ -399,7 +379,7 @@
         },
         {
             "key": "🐷",
-            "name": "乐猪(爬虫)",
+            "name": "SP┃乐猪",
             "type": 3,
             "api": "csp_Lezhu",
             "searchable": 1,
@@ -408,7 +388,7 @@
         },
         {
             "key": "csp_Xinsj",
-            "name": "新视觉(爬虫)",
+            "name": "SP┃新视觉",
             "type": 3,
             "api": "csp_Xinsj",
             "playerType":2,
@@ -419,7 +399,7 @@
 
         {
             "key": "Ddrk",
-            "name": "低端(爬虫)",
+            "name": "SP┃低端",
             "type": 3,
             "api": "csp_Ddrk",
             "searchable": 1,
@@ -428,7 +408,7 @@
         },
         {
             "key": "LiteApple",
-            "name": "小苹果(爬虫)",
+            "name": "SP┃小苹果",
             "type": 3,
             "api": "csp_LiteApple",
             "searchable": 1,
@@ -437,7 +417,7 @@
         },
         {
             "key": "Ysgc",
-            "name": "影视工厂(爬虫)",
+            "name": "SP┃工厂",
             "type": 3,
             "api": "csp_Ysgc",
             "searchable": 1,
@@ -446,7 +426,7 @@
         },
         {
             "key": "Bttoo",
-            "name": "Bttoo(爬虫)",
+            "name": "SP┃Bttoo",
             "type": 3,
             "api": "csp_Bttoo",
             "searchable": 1,
@@ -454,18 +434,8 @@
             "filterable": 1
         },
         {
-            "key": "Coke",
-            "name": "Cokemv(爬虫)",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Lgyy",
-            "name": "蓝光影院(爬虫)",
+            "name": "SP┃蓝光",
             "type": 3,
             "api": "csp_Lgyy",
             "searchable": 1,
@@ -474,7 +444,7 @@
         },
         {
             "key": "Bdys01",
-            "name": "哔滴影视(爬虫)",
+            "name": "SP┃哔滴",
             "type": 3,
             "api": "csp_Bdys01",
             "searchable": 1,
@@ -483,7 +453,7 @@
         },
         {
             "key": "Lib",
-            "name": "Libvio(爬虫)",
+            "name": "SP┃Libvio",
             "type": 3,
             "api": "csp_Lib",
             "searchable": 1,
@@ -492,7 +462,7 @@
         },
         {
             "key": "Dm84",
-            "name": "动漫巴士(爬虫)",
+            "name": "SP┃巴士",
             "type": 3,
             "api": "csp_Dm84",
             "searchable": 1,
@@ -501,7 +471,7 @@
         },
         {
             "key": "IQIYI",
-            "name": "奇异果(解析)",
+            "name": "SP┃奇异果",
             "type": 3,
             "api": "csp_IQIYI",
             "searchable": 1,
@@ -510,7 +480,7 @@
         },
         {
             "key": "QQ",
-            "name": "企鹅(解析)",
+            "name": "SP┃企鹅",
             "type": 3,
             "api": "csp_QQ",
             "searchable": 1,
@@ -519,7 +489,7 @@
         },
         {
             "key": "MGTV",
-            "name": "芒果(解析)",
+            "name": "SP┃芒果",
             "type": 3,
             "api": "csp_Mgtv",
             "searchable": 1,
@@ -528,7 +498,7 @@
         },
         {
             "key": "360",
-            "name": "360(解析)",
+            "name": "SP┃360",
             "type": 3,
             "api": "csp_SP360",
             "searchable": 1,
@@ -537,7 +507,7 @@
         },
         {
             "key": "Nbys",
-            "name": "泥巴(墙外)",
+            "name": "SP┃泥巴",
             "type":3,
             "api": "csp_Nbys",
             "searchable": 1,
@@ -546,7 +516,7 @@
         },
         {
             "key": "Xiaoh",
-            "name": "Xiaoh(墙外)",
+            "name": "SP┃Xiaoh",
             "type":3,
             "api": "csp_Xiaoh",
             "searchable": 1,
@@ -555,7 +525,7 @@
         },
         {
             "key": "If101",
-            "name": "101(墙外)",
+            "name": "SP┃101",
             "type":3,
             "api": "csp_If101",
             "searchable": 1,
@@ -565,7 +535,7 @@
 
         {
             "key": "AppTT",
-            "name": "图图(爬虫)",
+            "name": "SP┃图图",
             "type": "3",
             "api": "csp_Dora",
             "playerType": 2,
@@ -576,7 +546,7 @@
         },
         {
             "key": "Tian",
-            "name": "天天(爬虫)",
+            "name": "SP┃天天",
             "type": "3",
             "api": "csp_Dora",
             "playerType": 2,
@@ -588,7 +558,7 @@
 
         {
             "key": "AList",
-            "name": "AList",
+            "name": "SP┃AList",
             "type": "3",
             "api": "csp_AList",
             "searchable": "1",
@@ -597,7 +567,7 @@
 
         {
             "key": "农民",
-            "name": "农民(爬虫)",
+            "name": "SP┃农民",
             "type": 3,
             "api": "csp_Nmys",
             "searchable": 1,
@@ -607,7 +577,7 @@
         }, 
         {
             "key": "Gitcafe",
-            "name": "小纸条(爬虫)",
+            "name": "SP┃小纸条",
             "type": 3,
             "api": "csp_Paper",
             "playerType":2,
@@ -618,7 +588,7 @@
         },
         {
             "key": "YiSo",
-            "name": "易搜┃搜索",
+            "name": "SP┃易搜",
             "type": 3,
             "api": "csp_YiSo",
             "playerType": 1,
@@ -629,7 +599,7 @@
         },
         {
             "key": "PanSou",
-            "name": "盘搜┃搜索",
+            "name": "SP┃盘搜",
             "type": 3,
             "api": "csp_PanSou",
             "playerType": 1,
@@ -640,7 +610,7 @@
         },
         {
             "key": "UpYun",
-            "name": "Up搜┃搜索",
+            "name": "SP┃Up搜",
             "type": 3,
             "api": "csp_UpYun",
             "playerType": 1,
@@ -651,7 +621,7 @@
         },
         {
             "key": "Zhaozy",
-            "name": "找资源┃搜索",
+            "name": "SP┃找资源",
             "type": 3,
             "api": "csp_Zhaozy",
             "playerType": 1,
@@ -662,7 +632,7 @@
         },
         {
             "key": "push_agent",
-            "name": "手机┃推送",
+            "name": "SP┃推送",
             "type": 3,
             "api": "csp_Push",
             "playerType": 1,
@@ -673,7 +643,7 @@
         },
         {
             "key": "Bili",
-            "name": "Bili(爬虫)",
+            "name": "SP┃哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -683,7 +653,7 @@
         },
         {
             "key": "知识",
-            "name": "知识学堂(爬虫)",
+            "name": "知识┃学堂",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -693,7 +663,7 @@
         },
         {
             "key": "儿童",
-            "name": "儿童(爬虫)",
+            "name": "儿童┃启蒙",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -703,7 +673,7 @@
         },
         {
             "key": "小学",
-            "name": "小学(爬虫)",
+            "name": "小学┃课堂",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -713,7 +683,7 @@
         },
         {
             "key": "初中",
-            "name": "初中(爬虫)",
+            "name": "初中┃课堂",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -723,7 +693,7 @@
         },
         {
             "key": "高中",
-            "name": "高中(爬虫)",
+            "name": "高中┃课堂",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
