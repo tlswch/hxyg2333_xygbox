@@ -35,7 +35,7 @@
 {"key": "py_alist","name": "[PY]Alist","type": 3,"api": "py_alist","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/pybox/py_alist.py"},
         {
             "key": "csp_xBPQ_热播库",
-            "name": "热播库",
+            "name": "xBPQ┃热播库",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
@@ -45,7 +45,7 @@
         },
         {
             "key": "csp_xBPQ_饭团影视",
-            "name": "饭团影视",
+            "name": "xBPQ┃饭团HD",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
@@ -55,7 +55,7 @@
         },
         {
             "key": "csp_xBPQ_城市电影",
-            "name": "城市电影",
+            "name": "xBPQ┃城市",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
@@ -65,7 +65,7 @@
         },
         {
             "key": "csp_xBPQ_FreeOK",
-            "name": "FreeOK",
+            "name": "xBPQ┃FreOK",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
@@ -75,7 +75,7 @@
         },
         {
             "key": "csp_xBPQ_555电影",
-            "name": "555电影",
+            "name": "xBPQ┃555",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
@@ -85,7 +85,7 @@
         },
         {
             "key": "csp_xBPQ_HDIK",
-            "name": "HDIK",
+            "name": "xBPQ┃HDIK",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
@@ -95,7 +95,7 @@
         },
         {
             "key": "csp_xBPQ_莫扎兔",
-            "name": "莫扎兔",
+            "name": "xBPQ┃莫扎兔",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
@@ -105,7 +105,7 @@
         },
         {
             "key": "霹雳影视",
-            "name": "霹雳影视",
+            "name": "xBPQ┃霹雳",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
@@ -115,7 +115,7 @@
         },
         {
             "key": "万博剧院",
-            "name": "万博剧院",
+            "name": "xBPQ┃万博",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
@@ -123,40 +123,6 @@
             "filterable": 0,
             "ext": "https://tvbox.cainisi.cf/xBPQ/万博剧院.json"
         },
-
-        {
-            "key": "csp_XBiu口袋影院",
-            "name": "XBiu┃口袋影视",
-            "type": 3,
-            "api": "csp_XBiu",
-            "ext": {
-                "homeUrl": "http://www.koudaitv.com/type/{cateId}-{catePg}.html",
-                "playlist": {
-                    "sort": 1
-                }
-            }
-        },
-
-        {
-            "key": "csp_XBiuCOKEMV",
-            "name": "XBiu┃cokemv",
-            "type": 3,
-            "api": "csp_XBiu",
-            "ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"
-        },
-
-
-        {
-            "key": "csp_XYQH追兔",
-            "name": "XYQ┃追兔",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://cdn.饭太硬.ga/x/XYQ/追兔.json"
-        },
-
          {
             "key": "csp_xBPQ_爱看",
             "name": "xBPQ┃爱看",
@@ -169,18 +135,8 @@
         },
 
         {
-            "key": "XBPQ_fant",
-            "name": "🍙┃饭团HD┃影视",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "http://我不是.肥猫.love:63/json/饭团影视.json"
-        },
-        {
             "key": "XBPQ_fant2",
-            "name": "🍙┃饭团TV┃影院",
+            "name": "xBPQ┃饭团TV",
             "type": 3,
             "api": "csp_xBPQ",
             "filterable": 1,
@@ -190,7 +146,7 @@
         },
         {
             "key": "mtv_XBPQ_映迷影视",
-            "name": "🐾┃映迷┃影视",
+            "name": "xBPQ┃映迷",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
@@ -201,7 +157,7 @@
 
         {
             "key":"csp_xBPQ新大米",
-            "name":"🌾┃大米┃影视",
+            "name":"xBPQ┃大米",
             "type":3,
             "api":"csp_xBPQ",
             "searchable":1,
@@ -209,6 +165,33 @@
             "filterable":0,
             "ext":{"分类":"电影$20#连续剧$21#综艺$22#动漫$23#福利$35","分类url":"https://www.lkfrp.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/pjax/YES.html"}
         },
+
+        {
+            "key": "csp_XBiuCOKEMV",
+            "name": "XBiu┃cokemv",
+            "type": 3,
+            "api": "csp_XBiu",
+            "ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"
+        },
+        {
+            "key": "csp_XBiu口袋影院",
+            "name": "XBiu┃口袋影视",
+            "type": 3,
+            "api": "csp_XBiu",
+            "ext": {"homeUrl": "http://www.koudaitv.com/type/{cateId}-{catePg}.html","playlist": {"sort": 1}}
+        },
+        {
+            "key": "csp_XYQH追兔",
+            "name": "XYQ┃追兔",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cdn.饭太硬.ga/x/XYQ/追兔.json"
+        },
+
+
 
 
         {
