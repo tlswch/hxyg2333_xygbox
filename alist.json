@@ -25,14 +25,6 @@
       "server": "https://anime.mqmmw.ga"
     },
     {
-      "name": "一只鱼",
-      "server": "https://alist.youte.ml"
-    },
-    {
-      "name": "七米蓝",
-      "server": "https://al.chirmyram.com"
-    },
-    {
       "name": "杜比",
       "server": "https://dubi.tk"
     },
@@ -45,10 +37,6 @@
       "server": "https://alist.shenzjd.com"
     },
     {
-      "name": "姬路白雪",
-      "server": "https://pan.jlbx.xyz"
-    },
-    {
       "name": "云播放",
       "server": "https://quanzi.laoxianghuijia.cn"
     },
@@ -57,8 +45,8 @@
       "server": "https://pan.ichuguang.com"
     },
     {
-      "name": "星夢",
-      "server": "https://pan.bashroot.top"
+      "name": "一只鱼",
+      "server": "https://alist.youte.ml"
     }
   ]
 }
