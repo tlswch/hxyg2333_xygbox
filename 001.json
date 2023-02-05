@@ -247,6 +247,7 @@
             "playerType":2,
             "quickSearch":1,
             "filterable":0,
+            "ext":"http://118.190.144.126",
             "jar": "https://gitee.com/xygg23333/free/raw/master/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"
         },
 
@@ -285,7 +286,7 @@
         },
         {
             "key": "csp_panghu",
-            "name": "SP┃胖虎┃SP",
+            "name": "SP┃胖虎",
             "type": 3,
             "api": "csp_Panghu",
             "searchable": 1,
@@ -295,7 +296,7 @@
 
         {
             "key": "csp_Lgyy",
-            "name": "SP┃蓝光┃SP",
+            "name": "SP┃蓝光",
             "type": 3,
             "api": "csp_Lgyy",
             "searchable": 1,
@@ -304,7 +305,7 @@
         },
         {
             "key": "csp_Smdyy",
-            "name": "SP┃神马┃SP",
+            "name": "SP┃神马",
             "type": 3,
             "api": "csp_Smdyy",
             "searchable": 1,
@@ -314,7 +315,7 @@
 
         {
             "key": "csp_SP2345",
-            "name": "SP┃2345┃SP",
+            "name": "SP┃2345",
             "type": 3,
             "api": "csp_SP2345",
             "searchable": 1,
