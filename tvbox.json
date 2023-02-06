@@ -235,7 +235,7 @@
 
         {
             "key":"百影视频",
-            "name":"百影视频",
+            "name":"爬虫┃百影",
             "type":3,
             "api":"csp_MianHua",
             "searchable":1,
@@ -248,7 +248,7 @@
 
         {
             "key":"棉花影视",
-            "name":"棉花影视",
+            "name":"爬虫┃棉花",
             "type":3,
             "api":"csp_MianHua",
             "searchable":1,
