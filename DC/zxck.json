@@ -69,8 +69,16 @@
             "name": "云星日记"
         },
         {
-            "url": "http://miaotvs.cn/osc",
+            "url": "http://111.67.196.181/mtv/meow.txt",
             "name": "太阳"
+        },
+        {
+            "url": "https://download.kstore.space/download/2863/01.txt",
+            "name": "潇洒"
+        },
+        {
+            "url": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8",
+            "name": "ddbgh"
         },
         {
             "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
@@ -87,6 +95,10 @@
         {
             "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
             "name": "小苹果"
+        },
+        {
+            "url": "https://agit.ai/ccvv/itvbox/raw/branch/master/2024.txt",
+            "name": "恋影"
         },
         {
             "url": "http://52bsj.vip:81/api/v3/file/get/46060/Tv%20box%E6%BA%902.txt?sign=yI8sCYT8pei-pxp1_xwLjWOfepQ9b7c1y6Q_QD_0RY4%3D%3A0",
