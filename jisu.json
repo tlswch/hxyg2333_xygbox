@@ -12,7 +12,7 @@
 {"key": "Kuaikan","name": "快看┃影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Dy1010","name": "双十┃影视","type": 3,"api": "csp_Dy1010","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Bttoo","name": "Btto┃影视","api": "csp_Bttoo","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
-{"key": "csp_AppTT","name": "图图┃影视","type": 3,"api": "csp_AppTT2","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="},
+{"key": "csp_AppTT","name": "图图┃影视","type": 3,"api": "csp_AppTT2","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://103.239.101.244:6677$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
 {"key": "农民","name": "农民┃影视","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/nongminyingshi.json"},
 {"key": "csp_Paper","name": "纸条┃云盘","type": 3,"api": "csp_Paper","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.love:63/token.php"},
 {"key": "csp_search_Zhaozy","name": "资源┃搜索","type": 3,"api": "csp_Zhaozy","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://我不是.肥猫.love:63/token.php"},
