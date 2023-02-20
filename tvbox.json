@@ -11,6 +11,19 @@
             "quickSearch":0,
             "filterable":0
         },
+
+        {
+            "key": "Kunyu77",
+            "name": "SP┃七七",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable":1,
+            "playerType":2,
+            "quickSearch":1,
+            "filterable":1,
+            "jar": "https://gitee.com/xygg23333/free/raw/master/xo.jar;md5;3af7eaf917576c6392ce1a07981895ef"
+        },
+
         {
             "key": "csp_YQKAPP",
             "name": "SP┃一起看",
@@ -31,6 +44,39 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.6080dy2.com"
+        },
+        {
+            "key": "csp_Yht",
+            "name": "SP┃野荷塘",
+            "type": 3,
+            "api": "csp_Yht",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yehetang.cc"
+        },
+
+
+        {
+            "key": "LiteApple",
+            "name": "SP┃小苹果",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
+
+        {
+            "key": "csp_555电影",
+            "name": "SP┃555电影",
+            "type": 3,
+            "api": "csp_Ys555",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.555dyy1.com"
         },
         {
             "key": "csp_BuLei",
@@ -97,7 +143,7 @@
 
         {
             "key": "T4直播转点播",
-            "name": "SP┃电视",
+            "name": "SP┃电视直播",
             "type": 4,
             "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA",
             "searchable": 0,
@@ -105,46 +151,23 @@
             "filterable": 1
         },
         {
-            "key": "csp_Yht",
-            "name": "SP┃野荷塘",
-            "type": 3,
-            "api": "csp_Yht",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://yehetang.cc"
-        },
-        {
-            "key": "csp_fantuan",
-            "name": "SP┃饭团",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.fantuanhd.com"
-        },
-        {
-            "key": "csp_555电影",
-            "name": "SP┃555电影",
-            "type": 3,
-            "api": "csp_Ys555",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.555dyy1.com"
-        },
-
-        {
             "key": "在线┃直播",
-            "name": "电竞┃直播",
+            "name": "SP┃网络直播",
             "type": 3,
             "api": "csp_Yj1211",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
-
+        {
+            "key": "csp_zxzj",
+            "name": "SP┃在线之家",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "csp_Ying",
             "name": "SP┃樱花动漫",
@@ -172,14 +195,16 @@
             "quickSearch": 1,
             "filterable": 1
         },
+
         {
-            "key": "csp_zxzj",
-            "name": "SP┃在线",
+            "key": "csp_fantuan",
+            "name": "SP┃饭团",
             "type": 3,
-            "api": "csp_Zxzj",
+            "api": "csp_Fantuan",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://www.fantuanhd.com"
         },
         {
             "key": "csp_Smdyy",
@@ -229,17 +254,7 @@
             "filterable": 0
         },
 
-        {
-            "key": "Kunyu77",
-            "name": "SP┃七七",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable":1,
-            "playerType":2,
-            "quickSearch":1,
-            "filterable":1,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/xo.jar;md5;3af7eaf917576c6392ce1a07981895ef"
-        },
+
 
         {
             "key": "Kuaikan",
@@ -269,15 +284,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "LiteApple",
-            "name": "SP┃小苹果",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+
         {
             "key": "Bdys01",
             "name": "SP┃哔滴",
