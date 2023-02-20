@@ -98,16 +98,6 @@
             "filterable": 1,
             "ext": "https://www.lgyy.tv"
         },
-        {
-            "key": "csp_Lib",
-            "name": "SP┃Libvio",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://libvio.me"
-        },
 
         {
             "key": "csp_AppTT",
@@ -139,6 +129,27 @@
             "filterable": 1,
             "ext": "http://dy.hm.iqinu.com:88/lm_api.php/v1.vod",
             "jar": "http://bt.hm.iqinu.com:32000/box/sub/jar/loamen_spider.jar"
+        },
+
+
+        {
+            "key": "csp_fantuan",
+            "name": "SP┃饭团",
+            "type": 3,
+            "api": "csp_Fantuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.fantuanhd.com"
+        },
+        {
+            "key": "csp_Smdyy",
+            "name": "SP┃神马",
+            "type": 3,
+            "api": "csp_Smdyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
 
         {
@@ -197,26 +208,6 @@
         },
 
         {
-            "key": "csp_fantuan",
-            "name": "SP┃饭团",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.fantuanhd.com"
-        },
-        {
-            "key": "csp_Smdyy",
-            "name": "SP┃神马",
-            "type": 3,
-            "api": "csp_Smdyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-
-        {
             "key": "csp_Auete",
             "name": "SP┃Auete",
             "type": 3,
@@ -225,24 +216,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "csp_Bttoo",
-            "name": "SP┃BTtwo",
-            "type": 3,
-            "api": "csp_Bttwoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Vofl",
-            "name": "SP┃Voflix",
-            "type": 3,
-            "api": "csp_Voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+
 
         {
             "key": "csp_Cokemv",
@@ -254,7 +228,37 @@
             "filterable": 0
         },
 
+        {
+            "key": "csp_Bttoo",
+            "name": "SP┃BTtwo",
+            "type": 3,
+            "api": "csp_Bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
 
+
+        {
+            "key": "csp_Lib",
+            "name": "SP┃Libvio",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://libvio.me"
+        },
+
+        {
+            "key": "csp_Vofl",
+            "name": "SP┃Voflix",
+            "type": 3,
+            "api": "csp_Voflix",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
 
         {
             "key": "Kuaikan",
