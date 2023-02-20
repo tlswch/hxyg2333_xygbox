@@ -210,15 +210,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_panghu",
-            "name": "SP┃胖虎",
-            "type": 3,
-            "api": "csp_Panghu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Nkdy",
             "name": "SP┃耐看",
             "type": 3,
@@ -270,6 +261,17 @@
             "name": "SP┃七七",
             "type": 3,
             "api": "csp_Kunyu77",
+            "searchable":1,
+            "playerType":2,
+            "quickSearch":1,
+            "filterable":1,
+            "jar": "https://gitee.com/xygg23333/free/raw/master/xo.jar;md5;3af7eaf917576c6392ce1a07981895ef"
+        },
+        {
+            "key": "csp_panghu",
+            "name": "SP┃胖虎",
+            "type": 3,
+            "api": "csp_Panghu",
             "searchable":1,
             "playerType":2,
             "quickSearch":1,
@@ -604,7 +606,7 @@
             "ext": "http://我不是.肥猫.love:63/toｋ.php"
         },
         {
-            "key": "Gitcafe",
+            "key": "csp_Gitcafe",
             "name": "SP┃小纸条②",
             "type": 3,
             "api": "csp_Gitcafe",
