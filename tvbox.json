@@ -61,7 +61,7 @@
             "quickSearch":1,
             "filterable":0,
             "ext":"http://47.104.99.175",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qj230217.jar;md5;95566ff667dfc50036c34c20a5daaa8a"
+            "jar": ""
         },
 
         {
@@ -74,7 +74,7 @@
             "quickSearch":1,
             "filterable":0,
             "ext":"http://118.190.144.126",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qj230217.jar;md5;95566ff667dfc50036c34c20a5daaa8a"
+            "jar": ""
         },
 
         {
@@ -87,7 +87,7 @@
             "quickSearch":1,
             "searchable":1,
             "ext":"",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qj230217.jar;md5;95566ff667dfc50036c34c20a5daaa8a"
+            "jar": ""
         },
 
         {
@@ -99,7 +99,7 @@
             "quickSearch":1,
             "searchable":1,
             "ext":"",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qj230217.jar;md5;95566ff667dfc50036c34c20a5daaa8a"
+            "jar": ""
         },
 
         {
@@ -112,7 +112,7 @@
             "quickSearch":1,
             "searchable":1,
             "ext":"",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qj230217.jar;md5;95566ff667dfc50036c34c20a5daaa8a"
+            "jar": ""
         },
 
         {
@@ -125,7 +125,7 @@
             "quickSearch":1,
             "searchable":1,
             "ext":"",
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qj230217.jar;md5;95566ff667dfc50036c34c20a5daaa8a"
+            "jar": ""
         },
 
         {
@@ -137,7 +137,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/qj230217.jar;md5;95566ff667dfc50036c34c20a5daaa8a"
+            "jar": ""
         },
         {
             "key": "csp_YQKAPP",
@@ -1378,5 +1378,5 @@
         "cms.qdwght.com"
     ],
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider":"https://gitee.com/xygg23333/free/raw/master/xoxo.jar;md5;f3687d6e511a73caf72f4757a04518b2"
+    "spider":"http://tvmvip110.live/down.php/56499bb16396e28eafa189b3660adcc6.txt;md5; 9B253C4950A03C043AF37ED9F15A4E54"
 }
