@@ -5,8 +5,12 @@
             "name": "自用综合"
         },
         {
-            "url": "https://agit.ai/xyg2333/xygbox/raw/branch/master/tvbox.json",
+            "url": "https://agit.ai/xyg2333/xygbox/raw/branch/master/jisu.json",
             "name": "自用极速"
+        },
+        {
+            "url": "https://agit.ai/xyg2333/xygbox/raw/branch/master/chengren.json",
+            "name": "自制承人"
         }
 
     ]
