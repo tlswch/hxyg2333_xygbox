@@ -3,20 +3,36 @@
     "sites": [ 
 
 
-{"key":"AppTT","name":"🐰图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":""},
 
-{"key": "Pang","name": "胖虎","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "c41fdb671b20925c76fa9b6ff8bad027","jar":""},
+    {"key": "csp_XYQBiu_聚合短视频","name":"聚合短视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/XYQxb/聚合短视频.js"},
+{"key": "csp_XYQBiu_dsp","name": "短视频通道(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://刚刚.live/jar2/tvjs/duanshipin.json"},
 
-{"key":"IKan","name":"爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":""},
+        {
+            "key": "csp_XYQBiu_聚合短视频",
+            "name": "📽️┃视频┃聚合",
+            "type": 3,
+            "api": "csp_XYQBiu",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/XYQBiu/%e7%9f%ad%e8%a7%86%e9%a2%91.json"
+        },
 
-{"key":"Hei","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":""},
 
-{"key":"Tbook","name":"听书网","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":""},
+{"key":"AppTT","name":"🐰图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 
-{"key":"csp_Ysgc","name":"[JAR]工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":""},
-{"key":"csp_Dy1010","name":"[JAR]双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":""},
+{"key": "Pang","name": "胖虎","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "c41fdb671b20925c76fa9b6ff8bad027","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 
-{"key":"csp_bendi"         ,"name":"📂本地视频(需要权限)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"ext":"","jar":""},
+{"key":"IKan","name":"爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
+
+{"key":"Hei","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
+
+{"key":"Tbook","name":"听书网","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
+
+{"key":"csp_Ysgc","name":"[JAR]工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://download.kstore.space/download/2883/0113t.jar;md5;04B747FECDF0AD9BAB5427ABF5EA24C9"},
+{"key":"csp_Dy1010","name":"[JAR]双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://download.kstore.space/download/2883/0113t.jar;md5;04B747FECDF0AD9BAB5427ABF5EA24C9"},
+
+{"key":"csp_bendi"         ,"name":"📂本地视频(需要权限)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"ext":"","jar":"https://gitee.com/xygg23333/free/raw/master/bendi.jar;md5;e4124355c26168f1fdf85d90dc646872"},
 
     {
       "key": "网易CC",
@@ -61,7 +77,7 @@
             "quickSearch":1,
             "filterable":0,
             "ext":"http://47.104.99.175",
-            "jar": ""
+            "jar": "https://gitee.com/xygg23333/free/raw/master/qj230217.jar;md5;95566ff667dfc50036c34c20a5daaa8a"
         },
 
         {
@@ -74,7 +90,7 @@
             "quickSearch":1,
             "filterable":0,
             "ext":"http://118.190.144.126",
-            "jar": ""
+            "jar": "https://gitee.com/xygg23333/free/raw/master/qj230217.jar;md5;95566ff667dfc50036c34c20a5daaa8a"
         },
 
         {
@@ -87,7 +103,7 @@
             "quickSearch":1,
             "searchable":1,
             "ext":"",
-            "jar": ""
+            "jar": "https://gitee.com/xygg23333/free/raw/master/qj230217.jar;md5;95566ff667dfc50036c34c20a5daaa8a"
         },
 
         {
@@ -99,7 +115,7 @@
             "quickSearch":1,
             "searchable":1,
             "ext":"",
-            "jar": ""
+            "jar": "https://gitee.com/xygg23333/free/raw/master/qj230217.jar;md5;95566ff667dfc50036c34c20a5daaa8a"
         },
 
         {
@@ -112,7 +128,7 @@
             "quickSearch":1,
             "searchable":1,
             "ext":"",
-            "jar": ""
+            "jar": "https://gitee.com/xygg23333/free/raw/master/qj230217.jar;md5;95566ff667dfc50036c34c20a5daaa8a"
         },
 
         {
@@ -125,7 +141,7 @@
             "quickSearch":1,
             "searchable":1,
             "ext":"",
-            "jar": ""
+            "jar": "https://gitee.com/xygg23333/free/raw/master/qj230217.jar;md5;95566ff667dfc50036c34c20a5daaa8a"
         },
 
         {
@@ -137,7 +153,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "jar": ""
+            "jar": "https://gitee.com/xygg23333/free/raw/master/qj230217.jar;md5;95566ff667dfc50036c34c20a5daaa8a"
         },
         {
             "key": "csp_YQKAPP",
@@ -1378,5 +1394,5 @@
         "cms.qdwght.com"
     ],
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider":"http://tvmvip110.live/down.php/56499bb16396e28eafa189b3660adcc6.txt;md5; 9B253C4950A03C043AF37ED9F15A4E54"
+    "spider":"https://gitee.com/xygg23333/free/raw/master/xoxo.jar;md5;56499bb16396e28eafa189b3660adcc6"
 }
