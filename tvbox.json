@@ -156,7 +156,16 @@
             "filterable": 1
         },
 
-
+        {
+            "key": "csp_Slsp",
+            "name": "SP┃石榴",
+            "type": 3,
+            "api": "csp_Slsp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/xBPQ/%e7%9f%b3%e6%a6%b4%e5%bd%b1%e8%a7%86.json"
+        },
         {
             "key": "csp_BuLei",
             "name": "SP┃布雷",
