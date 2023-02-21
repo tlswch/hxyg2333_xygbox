@@ -8,7 +8,7 @@
 
         {
             "key":"T4_douban",
-            "name":"豆瓣热榜",
+            "name":"搜索┃豆瓣排行",
             "type":4,
             "api":"https://agit.ai/xyg2333/xygbox/raw/branch/master/huaban.json",
             "searchable":0,
@@ -68,7 +68,7 @@
 
         {
             "key": "csp_xBPQ_热播库",
-            "name": "xBPQ┃热播库",
+            "name": "xBPQ┃热播库源",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
@@ -78,7 +78,7 @@
         },
         {
             "key": "csp_sp_两个磁力",
-            "name": "爬虫┃Bttoo",
+            "name": "爬虫┃两个磁力",
             "type": 3,
             "api": "csp_Bttoo",
             "searchable": 1,
@@ -87,7 +87,7 @@
         },
         {
             "key": "农民",
-            "name": "SP┃农民",
+            "name": "SP┃农民影视",
             "type": 3,
             "api": "csp_Nmys",
             "searchable": 1,
@@ -829,33 +829,33 @@
             "ext": ""
         },
 
-{"key":"drpy_js_奇优影院","name":"js┃奇优影院","type":3,"api":"https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/JS/奇优影院.js"},
+{"key":"drpy_js_奇优影院","name":"DRPY┃奇优影院","type":3,"api":"https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/JS/奇优影院.js"},
 
-{"key":"drpy_js_双十电影","name":"js┃双十影视","type":3,"api":"https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/JS/双十电影.js"},
+{"key":"drpy_js_双十电影","name":"DRPY┃双十影视","type":3,"api":"https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/JS/双十电影.js"},
 
-{"key":"drpy_js_胖虎影视","name":"js┃胖虎影视","type":3,"api":"https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/JS/胖虎影视.js"},
+{"key":"drpy_js_胖虎影视","name":"DRPY┃胖虎影视","type":3,"api":"https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/JS/胖虎影视.js"},
 
-{"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/JS/360影视.js"},
+{"key":"drpy_js_360影视","name":"DRPY┃360影视","type":3,"api":"https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/JS/360影视.js"},
 
-{"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/JS/奇珍异兽.js"},
+{"key":"drpy_js_奇珍异兽","name":"DRPY┃奇艺影视","type":3,"api":"https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/JS/奇珍异兽.js"},
 
-{"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/JS/优酷.js"},
+{"key":"drpy_js_优酷","name":"DRPY┃优酷影视","type":3,"api":"https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/JS/优酷.js"},
 
-{"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"api":"https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/JS/腾云驾雾.js"},
+{"key":"drpy_js_腾云驾雾","name":"DRPY┃腾讯影视","type":3,"api":"https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/JS/腾云驾雾.js"},
 
-{"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"api":"https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/JS/百忙无果.js"},
+{"key":"drpy_js_百忙无果","name":"DRPY┃芒果影视","type":3,"api":"https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/JS/百忙无果.js"},
 
-{"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/JS/菜狗.js"},
+{"key":"drpy_js_菜狗","name":"DRPY┃搜狗影视","type":3,"api":"https://gitee.com/xygg23333/free/raw/master/drpy2.min.js","ext":"https://agit.ai/xyg2333/xygbox/raw/branch/master/JS/菜狗.js"},
 
-{"key":"Yisou","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
+{"key":"Yisou","name":"搜索┃易搜资源","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
 
-{"key":"AliPanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
+{"key":"AliPanSou","name":"搜索┃盘搜资源","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
 
-{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
+{"key":"Gitcafe","name":"搜索┃小纸条源","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
 
-{"key":"UPanSo","name":"优盘搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
+{"key":"UPanSo","name":"搜索┃优盘搜源","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
 
-{"key":"FindZY","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
+{"key":"FindZY","name":"搜索┃查找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
 
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"}
 
