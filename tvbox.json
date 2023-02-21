@@ -13,6 +13,9 @@
 
 {"key":"Tbook","name":"听书网","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 
+{"key":"csp_Ysgc","name":"[JAR]工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://download.kstore.space/download/2883/0113t.jar;md5;04B747FECDF0AD9BAB5427ABF5EA24C9"},
+{"key":"csp_Dy1010","name":"[JAR]双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://download.kstore.space/download/2883/0113t.jar;md5;04B747FECDF0AD9BAB5427ABF5EA24C9"},
+
 
     {
       "key": "网易CC",
