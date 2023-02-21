@@ -16,6 +16,7 @@
 {"key":"csp_Ysgc","name":"[JAR]工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://download.kstore.space/download/2883/0113t.jar;md5;04B747FECDF0AD9BAB5427ABF5EA24C9"},
 {"key":"csp_Dy1010","name":"[JAR]双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://download.kstore.space/download/2883/0113t.jar;md5;04B747FECDF0AD9BAB5427ABF5EA24C9"},
 
+{"key":"csp_bendi"         ,"name":"📂本地视频(需要权限)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"ext":"","jar":"https://gitee.com/xygg23333/free/raw/master/bendi.jar;md5;e4124355c26168f1fdf85d90dc646872"},
 
     {
       "key": "网易CC",
