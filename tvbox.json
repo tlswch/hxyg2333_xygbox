@@ -257,6 +257,15 @@
             "filterable": 1
         },
         {
+            "key": "csp_panghu",
+            "name": "SP┃胖虎影视",
+            "type": 3,
+            "api": "csp_Panghu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_Ying",
             "name": "SP┃樱花动漫",
             "type": 3,
