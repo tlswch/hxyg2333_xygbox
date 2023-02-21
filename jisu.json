@@ -19,6 +19,18 @@
         },
 
 
+        {
+            "key": "Bili",
+            "name": "SP┃哔哩",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/bili.json"
+        },
+
+
 {"key":"优酷视频会员〔官源〕","name":"🐝优酷〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/youku/?ac=list"},
 {"key":"芒果TV会员〔官源〕","name":"🐝芒果〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/mgtv/?ac=list"},
 {"key":"搜狐视频会员〔官源〕","name":"🐝搜狐〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/sohu/?ac=list"},
