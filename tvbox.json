@@ -155,31 +155,6 @@
             "filterable": 1
         },
 
-
-        {
-            "key":"csp_Dy1010",
-            "name":"SP┃双十",
-            "type":3,
-            "api":"csp_Dy1010",
-            "playerType":2,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/zy.jar;md5;e80798750eca57470f29d1942bce39bb"
-        },
-        {
-            "key":"csp_Nkdy",
-            "name":"SP┃南柯",
-            "type":3,
-            "api":"csp_Nkdy",
-            "playerType":2,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "jar": "https://gitee.com/xygg23333/free/raw/master/zy.jar;md5;e80798750eca57470f29d1942bce39bb"
-        },
-
-
         {
             "key": "csp_BuLei",
             "name": "SP┃布雷",
@@ -884,13 +859,6 @@
             "type": 3,
             "api": "csp_XBiu",
             "ext": "https://www.233dm.cc/show/{cateId}--------{catePg}---.html"
-        },
-        {
-            "key":"csp_XBiu胖虎影视",
-            "name":"XBiu┃胖虎",
-            "type":3,
-            "api":"csp_XBiu",
-            "ext":"http://panghuys.com/vodshow/{cateId}/page/{catePg}.html"
         },
         {
             "key": "csp_XBiuCOKEMV",
