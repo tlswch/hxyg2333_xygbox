@@ -64,6 +64,15 @@
             "quickSearch": 1,
             "filterable": 1
         },
+        {
+            "key": "csp_jl_直播合集",
+            "name": "直播┃直播合集",
+            "type": 3,
+            "api": "csp_Yj1211",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
     {
       "key": "csp_AppTT",
       "name": "🗺️图图影视",
