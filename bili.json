@@ -1,4 +1,5 @@
 {
+	"cookie": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/cookie.txt",
 	"classes": [{
 		"type_name": "演唱会",
 		"type_id": "演唱会4K"
