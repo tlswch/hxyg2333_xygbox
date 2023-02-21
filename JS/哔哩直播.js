@@ -59,7 +59,7 @@ var rule = {
     headers:{
         "User-Agent":"PC_UA",
         "Referer": "https://www.bilibili.com",
-        "Cookie":"DedeUserID=3493076028885079;DedeUserID__ckMd5=60a8757a1f4d6ae9;SESSDATA=42b8ada6,1683277266,4bd05*b2;bili_jct=2dbe39aea02b41324395630a24d4775f;"
+        "Cookie":"DedeUserID=3493076028885079;DedeUserID__ckMd5=60a8757a1f4d6ae9;SESSDATA=42b8ada6,1683277266,4bd05*b2;bili_jct=2dbe39aea02b41324395630a24d4775f"
     },
     timeout:5000,
     limit:8,
