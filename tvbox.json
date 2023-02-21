@@ -11,7 +11,16 @@
             "quickSearch":0,
             "filterable":0
         },
-
+        {
+            "key": "csp_Slsp",
+            "name": "🍅石榴┃SP",
+            "type": 3,
+            "api": "csp_Slsp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/xBPQ/%e7%9f%b3%e6%a6%b4.json"
+        },
         {
             "key": "Kunyu77",
             "name": "SP┃七七",
