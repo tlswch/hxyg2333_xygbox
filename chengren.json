@@ -92,8 +92,16 @@
       "filterable": 1
     },
     {
+      "key": "api.apilyzy.com",
+      "name": "成人02",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
       "key": "jcspcj8.com",
-      "name": "111成人02",
+      "name": "废成人02",
       "type": 0,
       "api": "http://jcspcj8.com/api?ac=videolist",
       "searchable": 1,
@@ -117,15 +125,23 @@
     },
     {
       "key": "91md.me",
-      "name": "111成人05",
+      "name": "成人05【代理】",
       "type": 1,
       "api": "http://91md.me/api.php/provide/vod/",
       "searchable": 1,
       "filterable": 1
     },
     {
+      "key": "caiji.naichaapi.com",
+      "name": "成人06",
+      "type": 1,
+      "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
       "key": "zmcj88.com",
-      "name": "111成人06",
+      "name": "废成人06",
       "type": 0,
       "api": "http://zmcj88.com/sapi?ac=videolist",
       "searchable": 1,
@@ -149,7 +165,7 @@
     },
     {
       "key": "apilj.com",
-      "name": "111成人09",
+      "name": "成人09【代理】",
       "type": 1,
       "api": "http://apilj.com/api.php/provide/vod/at/json/",
       "searchable": 1,
@@ -157,7 +173,7 @@
     },
     {
       "key": "dadiapi.com",
-      "name": "111成人10",
+      "name": "成人10【代理】",
       "type": 0,
       "api": "http://dadiapi.com/api.php",
       "searchable": 1,
@@ -237,7 +253,7 @@
     },
     {
       "key": "jializyzapi.com",
-      "name": "111成人20",
+      "name": "成人20【代理】",
       "type": 1,
       "api": "http://www.jializyzapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -253,7 +269,7 @@
     },
     {
       "key": "caiji25.com",
-      "name": "111成人22",
+      "name": "成人22【代理】",
       "type": 0,
       "api": "http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml",
       "searchable": 1,
@@ -261,7 +277,7 @@
     },
     {
       "key": "madouse.la",
-      "name": "111成人23",
+      "name": "成人23【代理】",
       "type": 1,
       "api": "http://madouse.la/api.php/provide/vod/",
       "searchable": 1,
@@ -269,7 +285,7 @@
     },
     {
       "key": "caiji21.com",
-      "name": "111成人24",
+      "name": "成人24【代理】",
       "type": 0,
       "api": "http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml",
       "searchable": 1,
@@ -293,7 +309,7 @@
     },
     {
       "key": "caiji26.com",
-      "name": "111成人27",
+      "name": "成人27【代理】",
       "type": 0,
       "api": "http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml",
       "searchable": 1,
@@ -301,7 +317,7 @@
     },
     {
       "key": "caiji24.com",
-      "name": "111成人28",
+      "name": "成人28【代理】",
       "type": 0,
       "api": "http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml",
       "searchable": 1,
@@ -309,7 +325,7 @@
     },
     {
       "key": "888dav.com",
-      "name": "111成人29",
+      "name": "成人29【代理】",
       "type": 1,
       "api": "https://www.888dav.com/api.php/provide/vod/",
       "searchable": 1,
@@ -357,7 +373,7 @@
     },
     {
       "key": "mgav1.cc",
-      "name": "111成人35",
+      "name": "成人35【代理】",
       "type": 0,
       "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -373,7 +389,7 @@
     },
     {
       "key": "afasu.com",
-      "name": "111成人37",
+      "name": "成人37【代理】",
       "type": 0,
       "api": "https://www.afasu.com/api/xml.php",
       "searchable": 1,
@@ -587,22 +603,8 @@
       "searchable": 1,
       "filterable": 1
     },
-    {
-      "key": "caiji.naichaapi.com",
-      "name": "成人64",
-      "type": 1,
-      "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "api.apilyzy.com",
-      "name": "成人65",
-      "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 1
-    },
+
+
     {
       "key": "push_agent",
       "name": "推送",
