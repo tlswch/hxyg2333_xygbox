@@ -540,7 +540,7 @@
     },
     {
       "key": "jcspcj8.com",
-      "name": "成人61【暂不可用】",
+      "name": "jcspcj8【网址失效】",
       "type": 0,
       "api": "http://jcspcj8.com/api?ac=videolist",
       "searchable": 1,
@@ -548,7 +548,7 @@
     },
     {
       "key": "zmcj88.com",
-      "name": "成人62【暂不可用】",
+      "name": "zmcj88【网址失效】",
       "type": 0,
       "api": "http://zmcj88.com/sapi?ac=videolist",
       "searchable": 1,
@@ -556,7 +556,7 @@
     },
     {
       "key": "llzxcj.com",
-      "name": "成人63【暂不可用】",
+      "name": "llzxcj【网址失效】",
       "type": 0,
       "api": "http://llzxcj.com/inc/sck.php?ac=videolist",
       "searchable": 1,
@@ -564,9 +564,25 @@
     },
     {
       "key": "f2dcj6.com",
-      "name": "成人64【暂不可用】",
+      "name": "f2dcj6【网址失效】",
       "type": 0,
       "api": "http://f2dcj6.com/sapi?ac=videolist",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Supjav",
+      "name": "爬虫︱Supjav【网址失效】",
+      "type": 3,
+      "api": "csp_Supjav",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Hanime",
+      "name": "爬虫︱Hanime【网址失效】",
+      "type": 3,
+      "api": "csp_Hanime",
       "searchable": 1,
       "filterable": 1
     },
@@ -586,22 +602,6 @@
           }
         ]
       }
-    },
-    {
-      "key": "Supjav",
-      "name": "爬虫︱Supjav【暂不可用】",
-      "type": 3,
-      "api": "csp_Supjav",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Hanime",
-      "name": "爬虫︱Hanime【暂不可用】",
-      "type": 3,
-      "api": "csp_Hanime",
-      "searchable": 1,
-      "filterable": 1
     },
     {
       "key": "push_agent",
