@@ -120,6 +120,17 @@
             "jar": "https://gitee.com/xygg23333/free/raw/master/loamen_spider.jar;md5;0a05825c82a070067a97405320d1ac98"
         },
         {
+            "key":"sp-AppTT",
+            "name":"图图影视",
+            "type":3,
+            "api":"csp_TutuYs",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://124.248.66.89:7788",
+            "jar": "https://gitee.com/xygg23333/free/raw/master/qj230217.jar;md5;95566ff667dfc50036c34c20a5daaa8a"
+        },
+        {
             "key":"百影视频",
             "name":"百影视频",
             "type":3,
@@ -271,7 +282,7 @@
             "key": "csp_AppTT",
             "name": "SP┃图图",
             "type": 3,
-            "api": "csp_AppTT",
+            "api": "csp_AppTT2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
