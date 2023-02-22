@@ -1,0 +1,12 @@
+{
+  "drives": [
+    {
+      "name": "木偶",
+      "server": "https://www.kugutsu.ml"
+    },
+    {
+      "name": "9T",
+      "server": "https://drive.9t.ee"
+    }
+  ]
+}
