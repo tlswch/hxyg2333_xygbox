@@ -301,16 +301,16 @@
         },
         {
             "key": "T4直播转点播",
-            "name": "T4┃电视直播",
+            "name": "T4┃网络电视",
             "type": 4,
-            "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA==",
+            "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
         },
         {
             "key": "在线┃直播",
-            "name": "SP┃网红平台",
+            "name": "SP┃直播平台",
             "type": 3,
             "api": "csp_Yj1211",
             "searchable": 1,
