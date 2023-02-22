@@ -10,25 +10,8 @@
   ],
   "sites": [
     {
-      "key": "AList",
-      "name": "111AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "drives": [
-          {
-            "name": "木偶",
-            "server": "https://abnormalize.icu"
-          }
-        ]
-      }
-    },
-    {
       "key": "泥巴",
-      "name": "泥巴",
+      "name": "爬虫︱泥巴【代理】",
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
@@ -37,23 +20,15 @@
     },
     {
       "key": "玩偶",
-      "name": "玩偶",
+      "name": "爬虫︱玩偶【代理】",
       "type": 3,
       "api": "csp_Doll",
       "searchable": 1,
       "filterable": 1
     },
     {
-      "key": "18AV",
-      "name": "18AV",
-      "type": 3,
-      "api": "csp_Eighteen",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "Jable",
-      "name": "Jable",
+      "name": "爬虫︱Jable【代理】",
       "type": 3,
       "api": "csp_Jable",
       "searchable": 1,
@@ -61,25 +36,17 @@
     },
     {
       "key": "MissAV",
-      "name": "MissAV",
+      "name": "爬虫︱MissAV【代理】",
       "type": 3,
       "api": "csp_Miss",
       "searchable": 1,
       "filterable": 1
     },
     {
-      "key": "Supjav",
-      "name": "Supjav",
+      "key": "18AV",
+      "name": "爬虫︱18AV",
       "type": 3,
-      "api": "csp_Supjav",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Hanime",
-      "name": "Hanime",
-      "type": 3,
-      "api": "csp_Hanime",
+      "api": "csp_Eighteen",
       "searchable": 1,
       "filterable": 1
     },
@@ -96,14 +63,6 @@
       "name": "成人02",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "jcspcj8.com",
-      "name": "【废】成人02",
-      "type": 0,
-      "api": "http://jcspcj8.com/api?ac=videolist",
       "searchable": 1,
       "filterable": 1
     },
@@ -136,14 +95,6 @@
       "name": "成人06",
       "type": 1,
       "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "zmcj88.com",
-      "name": "【废】成人06",
-      "type": 0,
-      "api": "http://zmcj88.com/sapi?ac=videolist",
       "searchable": 1,
       "filterable": 1
     },
@@ -212,14 +163,6 @@
       "filterable": 1
     },
     {
-      "key": "llzxcj.com",
-      "name": "【废】成人14",
-      "type": 0,
-      "api": "http://llzxcj.com/inc/sck.php?ac=videolist",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "99zywcj.com",
       "name": "成人15",
       "type": 0,
@@ -232,14 +175,6 @@
       "name": "成人16",
       "type": 1,
       "api": "https://caiji.523zyw.com/inc/apijson_vod.php",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "f2dcj6.com",
-      "name": "【废】成人16",
-      "type": 0,
-      "api": "http://f2dcj6.com/sapi?ac=videolist",
       "searchable": 1,
       "filterable": 1
     },
@@ -509,7 +444,7 @@
     },
     {
       "key": "91md.me",
-      "name": "成人05【代理】",
+      "name": "成人50【代理】",
       "type": 1,
       "api": "http://91md.me/api.php/provide/vod/",
       "searchable": 1,
@@ -517,7 +452,7 @@
     },
     {
       "key": "apilj.com",
-      "name": "成人09【代理】",
+      "name": "成人51【代理】",
       "type": 1,
       "api": "http://apilj.com/api.php/provide/vod/at/json/",
       "searchable": 1,
@@ -525,7 +460,7 @@
     },
     {
       "key": "dadiapi.com",
-      "name": "成人10【代理】",
+      "name": "成人52【代理】",
       "type": 0,
       "api": "http://dadiapi.com/api.php",
       "searchable": 1,
@@ -533,7 +468,7 @@
     },
     {
       "key": "jializyzapi.com",
-      "name": "成人20【代理】",
+      "name": "成人53【代理】",
       "type": 1,
       "api": "http://www.jializyzapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -541,7 +476,7 @@
     },
     {
       "key": "caiji25.com",
-      "name": "成人22【代理】",
+      "name": "成人54【代理】",
       "type": 0,
       "api": "http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml",
       "searchable": 1,
@@ -549,7 +484,7 @@
     },
     {
       "key": "madouse.la",
-      "name": "成人23【代理】",
+      "name": "成人55【代理】",
       "type": 1,
       "api": "http://madouse.la/api.php/provide/vod/",
       "searchable": 1,
@@ -557,7 +492,7 @@
     },
     {
       "key": "caiji21.com",
-      "name": "成人24【代理】",
+      "name": "成人56【代理】",
       "type": 0,
       "api": "http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml",
       "searchable": 1,
@@ -565,7 +500,7 @@
     },
    {
       "key": "caiji26.com",
-      "name": "成人27【代理】",
+      "name": "成人57【代理】",
       "type": 0,
       "api": "http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml",
       "searchable": 1,
@@ -573,7 +508,7 @@
     },
     {
       "key": "caiji24.com",
-      "name": "成人28【代理】",
+      "name": "成人58【代理】",
       "type": 0,
       "api": "http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml",
       "searchable": 1,
@@ -581,7 +516,7 @@
     },
     {
       "key": "888dav.com",
-      "name": "成人29【代理】",
+      "name": "成人59【代理】",
       "type": 1,
       "api": "https://www.888dav.com/api.php/provide/vod/",
       "searchable": 1,
@@ -589,7 +524,7 @@
     },
     {
       "key": "mgav1.cc",
-      "name": "成人35【代理】",
+      "name": "成人60【代理】",
       "type": 0,
       "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -597,19 +532,77 @@
     },
     {
       "key": "afasu.com",
-      "name": "成人37【代理】",
+      "name": "成人61【代理】",
       "type": 0,
       "api": "https://www.afasu.com/api/xml.php",
       "searchable": 1,
       "filterable": 1
     },
-
-
-
-
-
-
-
+    {
+      "key": "jcspcj8.com",
+      "name": "成人61【暂不可用】",
+      "type": 0,
+      "api": "http://jcspcj8.com/api?ac=videolist",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zmcj88.com",
+      "name": "成人62【暂不可用】",
+      "type": 0,
+      "api": "http://zmcj88.com/sapi?ac=videolist",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "llzxcj.com",
+      "name": "成人63【暂不可用】",
+      "type": 0,
+      "api": "http://llzxcj.com/inc/sck.php?ac=videolist",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "f2dcj6.com",
+      "name": "成人64【暂不可用】",
+      "type": 0,
+      "api": "http://f2dcj6.com/sapi?ac=videolist",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "drives": [
+          {
+            "name": "爬虫︱木偶【暂不可用】",
+            "server": "https://www.kugutsu.ml"
+          }
+        ]
+      }
+    },
+    {
+      "key": "Supjav",
+      "name": "爬虫︱Supjav【暂不可用】",
+      "type": 3,
+      "api": "csp_Supjav",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Hanime",
+      "name": "爬虫︱Hanime【暂不可用】",
+      "type": 3,
+      "api": "csp_Hanime",
+      "searchable": 1,
+      "filterable": 1
+    },
     {
       "key": "push_agent",
       "name": "推送",
