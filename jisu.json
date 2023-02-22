@@ -31,7 +31,40 @@
         },
 
 
-{"key":"优酷视频会员〔官源〕","name":"🐝优酷〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/youku/?ac=list"},
+{"key":"优酷视频会员〔官源〕1","name":"🐝优酷〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/youku/?ac=list"},
+{
+      "key": "优酷视频会员〔官源〕1111",
+      "name": "🐝优酷〔官源1111〕",
+      "type": 0,
+      "api": "https://ikaola.tv/api.php/provide/vod/from/youku/?ac=list",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "categories": [
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "惊悚片",
+        "犯罪片",
+        "冒险片",
+        "悬疑片",
+        "动画片",
+        "武侠片",
+        "奇幻片",
+        "少儿",
+        "其他片"
+      ]
+    },
 {"key":"芒果TV会员〔官源〕","name":"🐝芒果〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/mgtv/?ac=list"},
 {"key":"搜狐视频会员〔官源〕","name":"🐝搜狐〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/sohu/?ac=list"},
 
