@@ -11,7 +11,7 @@
   "sites": [
     {
       "key": "泥巴",
-      "name": "爬虫︱泥巴【代理】",
+      "name": "代理︱泥巴",
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
@@ -20,7 +20,7 @@
     },
     {
       "key": "玩偶",
-      "name": "爬虫︱玩偶【代理】",
+      "name": "代理︱玩偶",
       "type": 3,
       "api": "csp_Doll",
       "searchable": 1,
@@ -28,7 +28,7 @@
     },
     {
       "key": "Jable",
-      "name": "爬虫︱Jable【代理】",
+      "name": "代理︱Jable",
       "type": 3,
       "api": "csp_Jable",
       "searchable": 1,
@@ -36,7 +36,7 @@
     },
     {
       "key": "MissAV",
-      "name": "爬虫︱MissAV【代理】",
+      "name": "代理︱MissAV",
       "type": 3,
       "api": "csp_Miss",
       "searchable": 1,
@@ -44,7 +44,7 @@
     },
     {
       "key": "Supjav",
-      "name": "爬虫︱Supjav",
+      "name": "代理︱Supjav",
       "type": 3,
       "api": "csp_Supjav",
       "searchable": 1,
@@ -57,6 +57,24 @@
       "api": "csp_Eighteen",
       "searchable": 1,
       "filterable": 1
+    },
+//木偶：https://www.kugutsu.ml
+    {
+      "key": "AList",
+      "name": "爬虫︱AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "drives": [
+          {
+            "name": "木偶",
+            "server": "https://drive.9t.ee"
+          }
+        ]
+      }
     },
     {
       "key": "51smt4.xyz",
@@ -545,25 +563,6 @@
       "api": "https://www.afasu.com/api/xml.php",
       "searchable": 1,
       "filterable": 1
-    },
-
-//木偶：https://www.kugutsu.ml
-    {
-      "key": "AList",
-      "name": "AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "drives": [
-          {
-            "name": "爬虫︱AList",
-            "server": "https://drive.9t.ee"
-          }
-        ]
-      }
     },
     {
       "key": "push_agent",
