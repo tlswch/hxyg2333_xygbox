@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/xygg23333/free/raw/master/custom_spider.jar;md5;bbaec5b34ccdafadb19731b355fdbc76",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;69ef6396eb2400c03529c7714d96841a",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "lives": [
     {
@@ -39,6 +39,14 @@
       "name": "爬虫︱MissAV【代理】",
       "type": 3,
       "api": "csp_Miss",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Supjav",
+      "name": "爬虫︱Supjav",
+      "type": 3,
+      "api": "csp_Supjav",
       "searchable": 1,
       "filterable": 1
     },
@@ -538,54 +546,8 @@
       "searchable": 1,
       "filterable": 1
     },
-    {
-      "key": "jcspcj8.com",
-      "name": "jcspcj8【网址失效】",
-      "type": 0,
-      "api": "http://jcspcj8.com/api?ac=videolist",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "zmcj88.com",
-      "name": "zmcj88【网址失效】",
-      "type": 0,
-      "api": "http://zmcj88.com/sapi?ac=videolist",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "llzxcj.com",
-      "name": "llzxcj【网址失效】",
-      "type": 0,
-      "api": "http://llzxcj.com/inc/sck.php?ac=videolist",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "f2dcj6.com",
-      "name": "f2dcj6【网址失效】",
-      "type": 0,
-      "api": "http://f2dcj6.com/sapi?ac=videolist",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Supjav",
-      "name": "爬虫︱Supjav【网址失效】",
-      "type": 3,
-      "api": "csp_Supjav",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Hanime",
-      "name": "爬虫︱Hanime【网址失效】",
-      "type": 3,
-      "api": "csp_Hanime",
-      "searchable": 1,
-      "filterable": 1
-    },
+
+//木偶：https://www.kugutsu.ml
     {
       "key": "AList",
       "name": "AList",
@@ -597,8 +559,8 @@
       "ext": {
         "drives": [
           {
-            "name": "爬虫︱木偶【暂不可用】",
-            "server": "https://www.kugutsu.ml"
+            "name": "爬虫︱AList",
+            "server": "https://drive.9t.ee"
           }
         ]
       }
