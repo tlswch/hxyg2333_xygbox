@@ -303,7 +303,7 @@
             "key": "T4直播转点播",
             "name": "T4┃网络电视",
             "type": 4,
-            "api": "http://120.53.102.254/live?url=http://home.jundie.top:81/ray/tvlive.txt",
+            "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
