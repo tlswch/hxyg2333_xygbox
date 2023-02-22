@@ -2,46 +2,90 @@
 {
     "sites": [ 
 
+{
+"key":"AppTT",
+"name":"SP┃图图",
+"type":"3",
+"api":"csp_Dora",
+"searchable":"1",
+"quickSearch":"1",
+"filterable":"1",
+"ext":"110c922de7d69804467fb83d3bb664b5",
+"jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"
+},
+
+{
+"key": "Pang",
+"name": "SP┃胖虎",
+"type": "3",
+"api": "csp_Dora",
+"searchable": "1",
+"quickSearch": "1",
+"filterable": "1",
+"ext": "c41fdb671b20925c76fa9b6ff8bad027",
+"jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"
+},
+
+{
+"key":"IKan",
+"name":"SP┃爱看",
+"type":3,
+"api": "csp_Dora",
+"searchable": 1,
+"quickSearch": 1,
+"filterable":1,
+"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50",
+"jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"
+},
+
+{
+"key":"Hei",
+"name":"SP┃石榴",
+"type":"3",
+"api":"csp_Dora",
+"searchable":"1",
+"quickSearch":"1",
+"filterable":"1",
+"ext":"3bff500c8b1e06c052a1b0f1f7a62b45",
+"jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"
+},
+
+{
+"key":"Tbook",
+"name":"SP┃听书网",
+"type":3,
+"api":"csp_Dora",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"d16d1517e9eaad9909cb35c55ba0b784",
+"jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"
+},
+
+{
+"key":"csp_Ysgc",
+"name":"SP┃工厂",
+"type":3,"api":"csp_Ysgc",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"",
+"jar":"https://download.kstore.space/download/2883/0113t.jar;md5;04B747FECDF0AD9BAB5427ABF5EA24C9"
+},
 
 
+{
+"key":"csp_Dy1010",
+"name":"SP┃双十",
+"type":3,
+"api":"csp_Dy1010",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"",
+"jar":"https://download.kstore.space/download/2883/0113t.jar;md5;04B747FECDF0AD9BAB5427ABF5EA24C9"
+},
 
-        {
-            "key": "csp_xBPQ_聚短视频",
-            "name": "📽️聚短视频",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/xBPQ/%e7%9f%ad%e8%a7%86%e9%a2%91.json"
-        },
-
-
-{"key":"AppTT","name":"🐰图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
-
-{"key": "Pang","name": "胖虎","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "c41fdb671b20925c76fa9b6ff8bad027","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
-
-{"key":"IKan","name":"爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
-
-{"key":"Hei","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
-
-{"key":"Tbook","name":"听书网","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
-
-{"key":"csp_Ysgc","name":"[JAR]工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://download.kstore.space/download/2883/0113t.jar;md5;04B747FECDF0AD9BAB5427ABF5EA24C9"},
-{"key":"csp_Dy1010","name":"[JAR]双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://download.kstore.space/download/2883/0113t.jar;md5;04B747FECDF0AD9BAB5427ABF5EA24C9"},
-
-{"key":"csp_bendi"         ,"name":"📂本地视频(需要权限)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"ext":"","jar":"https://gitee.com/xygg23333/free/raw/master/bendi.jar;md5;e4124355c26168f1fdf85d90dc646872"},
-
-    {
-      "key": "网易CC",
-      "name": "🐠网易CC",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/XYQBiu/%e7%bd%91%e6%98%93CC.json"
-    },
 
         {
             "key":"T4_douban",
@@ -629,6 +673,16 @@
             "ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/xBPQ/FreeOK.json"
         },
         {
+            "key": "csp_xBPQ_聚短视频",
+            "name": "xBPQ┃短视频",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/xBPQ/%e7%9f%ad%e8%a7%86%e9%a2%91.json"
+        },
+        {
             "key": "去看动漫",
             "name": "xBPQ┃QK动漫",
             "type": 3,
@@ -904,6 +958,16 @@
             "ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/XPathFilter/%e8%be%be%e8%be%be%e9%be%9f.json"
         },
         {
+            "key": "网易CC",
+            "name": "XYQ┃网易CC",
+            "type": 3,
+            "api": "csp_XYQBiu",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/XYQBiu/%e7%bd%91%e6%98%93CC.json"
+        },
+        {
             "key": "csp_XBiu233动漫",
             "name": "XBiu┃233动漫",
             "type": 3,
@@ -1068,6 +1132,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/xx5.json"
+        },
+        {
+            "key":"csp_bendi",
+            "name":"📂本地视频(需要权限)",
+            "type":3,
+            "api":"csp_LocalFile",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":0,
+            "ext":"",
+            "jar":"https://gitee.com/xygg23333/free/raw/master/bendi.jar;md5;e4124355c26168f1fdf85d90dc646872"
         }
     ],
 
