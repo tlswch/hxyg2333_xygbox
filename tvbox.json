@@ -282,7 +282,7 @@
             "key": "csp_AppTT",
             "name": "SP┃图图",
             "type": 3,
-            "api": "csp_AppTT2",
+            "api": "csp_AppTT",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
