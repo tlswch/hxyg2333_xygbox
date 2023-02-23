@@ -301,7 +301,7 @@
         },
         {
             "key": "T4直播转点播",
-            "name": "T4┃网络电视(暂不可用)",
+            "name": "T4┃网络电视",
             "type": 4,
             "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA",
             "searchable": 0,
@@ -590,7 +590,7 @@
         }, 
         {
             "key": "Tian",
-            "name": "SP┃天天(暂不可用)",
+            "name": "SP┃天天(✘)",
             "type": "3",
             "api": "csp_Dora",
             "searchable": "1",
@@ -1467,5 +1467,5 @@
         "cms.qdwght.com"
     ],
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "spider":"https://gitee.com/xygg23333/free/raw/master/xoxo.jar;md5;56499bb16396e28eafa189b3660adcc6"
+    "spider":"https://gitee.com/xygg23333/free/raw/master/xoxo.jar;md5;d58398a4c77607947d9a6168409b44a2"
 }
