@@ -301,7 +301,7 @@
         },
         {
             "key": "T4直播转点播",
-            "name": "T4┃网络电视",
+            "name": "T4┃网络电视(暂不可用)",
             "type": 4,
             "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA",
             "searchable": 0,
@@ -479,7 +479,15 @@
             "quickSearch": 1,
             "filterable": 1
         },
-
+        {
+            "key": "csp_Nkdy",
+            "name": "SP┃耐看",
+            "type": 3,
+            "api": "csp_Nkdy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "Dm84",
             "name": "SP┃巴士",
@@ -580,6 +588,16 @@
             "filterable": 1,
             "ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/nongminyingshi.json"
         }, 
+        {
+            "key": "Tian",
+            "name": "SP┃天天(暂不可用)",
+            "type": "3",
+            "api": "csp_Dora",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "bdc1c75081e5e477189a463baa47e392"
+        },
         {
             "key": "AList",
             "name": "SP┃AList",
@@ -986,6 +1004,15 @@
             "type": 3,
             "api": "csp_XBiu",
             "ext": {"homeUrl": "http://www.koudaitv.com/type/{cateId}-{catePg}.html","playlist": {"sort": 1}}
+        },
+        {
+            "key": "csp_If101",
+            "name": "翻墙┃IF一零一",
+            "type": 3,
+            "api": "csp_If101",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_trj",
