@@ -315,7 +315,7 @@
             "key": "T4直播转点播",
             "name": "T4┃电视直播",
             "type": 4,
-            "api": "http://120.53.102.254/live?url=aHR0cHM6Ly9hZ2l0LmFpL3h5ZzIzMzMveHlnYm94L3Jhdy9icmFuY2gvbWFzdGVyL1pCL3R2bGl2ZS50eHQ=",
+            "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA==",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1
