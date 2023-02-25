@@ -3,6 +3,19 @@
     "sites": [ 
 
         {
+            "key": "AppTT",
+            "name": "SP┃图图",
+            "type": "3",
+            "api": "csp_Dora",
+            "playerType": 2,
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "110c922de7d69804467fb83d3bb664b5",
+            "jar":"https://gitee.com/xygg23333/free/raw/master/ts.jar;md5;ef2d242e59d6b8154c49429817ac2043"
+        },
+
+        {
             "key": "Pang",
             "name": "SP┃胖虎",
             "type": "3",
@@ -285,7 +298,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://154.39.64.151:3311/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="
+            "ext": "http://154.39.64.151:3311/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg==",
+            "jar":"https://yydsys.top/duo/jar/duo.jar;md5;DE062A37A01EA422BD3D49F935F1C605"
         },
         {
             "key": "csp_app_源头",
