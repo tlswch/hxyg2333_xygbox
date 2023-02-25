@@ -300,15 +300,6 @@
             "playurl": "https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url="
         },
         {
-            "key": "T4直播转点播",
-            "name": "T4┃网络电视",
-            "type": 4,
-            "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1
-        },
-        {
             "key": "在线┃直播",
             "name": "SP┃直播平台",
             "type": 3,
@@ -588,16 +579,6 @@
             "filterable": 1,
             "ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/nongminyingshi.json"
         }, 
-        {
-            "key": "Tian",
-            "name": "SP┃天天❌",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "bdc1c75081e5e477189a463baa47e392"
-        },
         {
             "key": "AList",
             "name": "SP┃AList",
