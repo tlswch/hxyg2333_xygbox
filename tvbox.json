@@ -299,7 +299,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://154.39.64.151:3311/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg==",
-            "jar":"https://yydsys.top/duo/jar/duo.jar;md5;DE062A37A01EA422BD3D49F935F1C605"
+            "jar":"https://gitee.com/xygg23333/free/raw/master/duoTT2.jar;md5;41a8b279f24e06a17cf29eb47ea5a9b4"
         },
         {
             "key": "csp_app_源头",
@@ -1151,6 +1151,18 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/xx5.json"
+        },
+        {
+            "key": "Tian",
+            "name": "❌天天┃(暂不可用)",
+            "type": "3",
+            "api": "csp_Dora",
+            "playerType": 2,
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "bdc1c75081e5e477189a463baa47e392",
+            "jar":"https://gitee.com/xygg23333/free/raw/master/ts.jar;md5;ef2d242e59d6b8154c49429817ac2043"
         },
         {
             "key":"csp_bendi",
