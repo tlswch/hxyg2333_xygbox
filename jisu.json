@@ -2,7 +2,7 @@
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3h5ZzIzMzMveHlnYm94L3Jhdy9icmFuY2gvbWFzdGVyL1pCL3R2bGl2ZS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
 "sites":[
 
@@ -35,7 +35,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://dy.hm.iqinu.com:88/lm_api.php/v1.vod",
-            "jar": "http://bt.hm.iqinu.com:32000/box/sub/jar/loamen_spider.jar;md5;57c09f96de572de534071e2d892d6e3a"
+            "jar": "https://gitee.com/xygg23333/free/raw/master/loamen_spider.jar;md5;0a05825c82a070067a97405320d1ac98"
         },
         {
             "key": "csp_app_源头",
@@ -45,7 +45,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "playurl": "https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url="
+            "playurl": ""
         },
         {
             "key": "csp_AppTT",
@@ -55,7 +55,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://103.239.101.244:6677$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
+            "ext": "http://154.39.64.151:3311/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="
         },
         {
             "key": "csp_sp_小苹果源",
@@ -152,6 +152,42 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://agit.ai/xyg2333/xygbox/raw/branch/master/xBPQ/热播库.json"
+        },
+        {
+            "key": "zy_1080资源",
+            "name": "接口┃1080资源",
+            "type": 1,
+            "api": "https://1080zyk1.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "国产剧",
+                "香港剧",
+                "韩国剧",
+                "欧美剧",
+                "记录片",
+                "台湾剧",
+                "日本剧",
+                "海外剧",
+                "泰国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫"
+            ]
         },
         {
             "key": "zy_量子资源",
@@ -750,6 +786,43 @@
                 "体育"
             ]
         },
+        {
+            "key": "zy_多多资源",
+            "name": "接口┃多多资源",
+            "type": 1,
+            "api": "https://ddzyz1.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "国产剧", 
+                "日韩剧", 
+                "港台剧", 
+                "欧美剧", 
+                "泰国剧", 
+                "海外剧", 
+                "国产动漫", 
+                "日韩动漫", 
+                "欧美动漫", 
+                "国内综艺", 
+                "海外综艺", 
+                "动作片", 
+                "喜剧片", 
+                "爱情片", 
+                "动画片", 
+                "冒险片", 
+                "武侠片", 
+                "科幻片", 
+                "战争片", 
+                "恐怖片",
+                "灾难片", 
+                "悬疑片", 
+                "纪录片", 
+                "惊悚片", 
+                "奇幻片", 
+                "剧情片"
+            ]
+        },	
         {
             "key": "zy_百度资源",
             "name": "接口┃百度资源",
